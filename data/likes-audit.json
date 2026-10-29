@@ -1,0 +1,3337 @@
+{
+  "status": "passed",
+  "slug": "cruz-says",
+  "records": 147,
+  "known": 146,
+  "unknown": 1,
+  "repeated_record_observations": 0,
+  "same_time_conflicts": 0,
+  "original_records_sha256": "63be45f4c33ef0400f654e2c73fac67468f17d19e5d08ae6b2131257920b9110",
+  "source_audit_sha256": "5f742ddf9bd95520e68a39e2f1151a63da015302e813ceca604db74197bda6f1",
+  "classification_evidence_sha256": "033adf8f94bf44684f10c6bf950c5c734b84e9665d718070fc9f573f91e88ede",
+  "pages": [
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+      "sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+      "matched_like_stat_occurrences": 14
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__-oLAAIAAAATMjExNTQ4OTMxNjM5MDc3NzMyMggAAwAAAAIAAA",
+      "sha256": "13832de6eb1855b05e128a7eb8013178b58614ff2e09bf47fb4787d267149e6a",
+      "matched_like_stat_occurrences": 7
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__9ULAAIAAAATMjExNTA4NzAxMjg4NTU4MjA4NQgAAwAAAAIAAA",
+      "sha256": "75a2aed256209a652b6415511f419f3ddffc77d188b12db914f38cc27910449a",
+      "matched_like_stat_occurrences": 6
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+      "sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+      "matched_like_stat_occurrences": 14
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__6sLAAIAAAATMjExNDQyMTA1MTI2NjYyNTk2OQgAAwAAAAIAAA",
+      "sha256": "a02651207c63e2b8c7bd16d456a87f8e738e3bd3aa75a1726d77d970b2f6d03a",
+      "matched_like_stat_occurrences": 3
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__5YLAAIAAAATMjExMzgxMjkyNzc1NzM1Mjk2MggAAwAAAAIAAA",
+      "sha256": "53f30359d1f413fcb0e106e93ea9f34cf8977268f6a1dfa6c76e3ab8ceaa467b",
+      "matched_like_stat_occurrences": 7
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__4ILAAIAAAATMjExMzY1ODEzMTczNzYyNDU4NggAAwAAAAIAAA",
+      "sha256": "e2bfcd00ab3aba51953559f35e1a5b5b335f024122fc6ff368839d687f8bbd2e",
+      "matched_like_stat_occurrences": 3
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__20LAAIAAAATMjExMzI3OTkwOTk4NDM5MTI4MAgAAwAAAAIAAA",
+      "sha256": "b53ce81ab0683c813d045d448d4d0eaa26a4e14b3668d137c983c04c6ff6a941",
+      "matched_like_stat_occurrences": 3
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__1gLAAIAAAATMjExMzA5OTgwMDMzMzcyOTk4MwgAAwAAAAIAAA",
+      "sha256": "9cd472434f536a7dce41f4b9e8124f079628fa113f7a4be4239111da94e62671",
+      "matched_like_stat_occurrences": 6
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__0MLAAIAAAATMjExMjc3MjQzMzAwMjI3MDk5MQgAAwAAAAIAAA",
+      "sha256": "4e784000ab4e06e68dd1430c9efcca674ad8b4f1b901de7670da47ba55322ee5",
+      "matched_like_stat_occurrences": 8
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__y4LAAIAAAATMjExMjM5NTMzNDA2NDQ3NjQ2MAgAAwAAAAIAAA",
+      "sha256": "e08060e9c1e91468a4283c5e15acdef9101f7b86c80e83a6692a397ce355bf8f",
+      "matched_like_stat_occurrences": 11
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__xkLAAIAAAATMjExMTgxNTM3ODY0NDk1OTQyMwgAAwAAAAIAAA",
+      "sha256": "91a162df545b08ac2b52c2bfce3c11cafb5d590f87f2f7ff2b36fce9fab7d9ce",
+      "matched_like_stat_occurrences": 4
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__wQLAAIAAAATMjExMTU5MzIxNjc4NDkxNjg1OQgAAwAAAAIAAA",
+      "sha256": "584a72e0b77cb5484aa966c61284c79ff2d9d8d1fd74c3fc31b9ecf4aa8e3b7d",
+      "matched_like_stat_occurrences": 6
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__vALAAIAAAATMjExMTI0NjgyNTk5NDc2MDI0NwgAAwAAAAIAAA",
+      "sha256": "7f93d289b454a64fc5334a70c337532a81521b92bdd696146533941e0c809c32",
+      "matched_like_stat_occurrences": 6
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__tsLAAIAAAATMjExMTE0ODc1ODE4MDQ3OTE0MQgAAwAAAAIAAA",
+      "sha256": "994c22eeed0d3a8cd4b6d3326ab104fb4b26e3d37ec321fbc2867f3705593009",
+      "matched_like_stat_occurrences": 13
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__sYLAAIAAAATMjExMTA1MjM4MTUxMzE5OTY4NQgAAwAAAAIAAA",
+      "sha256": "1bba6782310757cb4121d8f6fde11dac6058a4860d49d347c016915c9cabc90a",
+      "matched_like_stat_occurrences": 8
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__rELAAIAAAATMjExMDc3OTAyMDA0ODg0MzE0NQgAAwAAAAIAAA",
+      "sha256": "066008a8d14783993318b08f3dc50f99d61d1d769ff7b98774ae263204b009b9",
+      "matched_like_stat_occurrences": 13
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__pwLAAIAAAATMjExMDI1OTI1MTU5NTg3NDM3MwgAAwAAAAIAAA",
+      "sha256": "fa8c1a37be185190cbb760af6d9498f521c8a95d199783a70a3b38a2644884c0",
+      "matched_like_stat_occurrences": 5
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__ocLAAIAAAATMjEwOTc3NTUwOTQ1MDExMzE2MQgAAwAAAAIAAA",
+      "sha256": "f0bee9e59ee7113c658a30857eb4e2423f007f40b1d00394151cf833e576ca8c",
+      "matched_like_stat_occurrences": 5
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__nMLAAIAAAATMjEwOTY3NjQ2NzI2OTM5MDYwNQgAAwAAAAIAAA",
+      "sha256": "3b1bc4a168527b251dc79a59f11e2039c65953fc8d2758c7a189c1f6a167fb22",
+      "matched_like_stat_occurrences": 4
+    }
+  ],
+  "unsupported_or_missing_displays": {
+    "(empty)": 1
+  },
+  "policy": "Use latest known timestamp; select minimum observed value for same-time conflicts. Missing counts stay null. Counts are snapshot values, not live totals. captured_at is the source audit collection-run start, not a per-page observation time.",
+  "selection": {
+    "x-2115575376386687250": {
+      "status": "known",
+      "selected": {
+        "like_count": 168,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+        "source_sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+        "display": "168"
+      },
+      "observations": [
+        {
+          "like_count": 168,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+          "source_sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+          "display": "168"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2115561311480263081": {
+      "status": "known",
+      "selected": {
+        "like_count": 80,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+        "source_sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+        "display": "80"
+      },
+      "observations": [
+        {
+          "like_count": 80,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+          "source_sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+          "display": "80"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2115552183357694146": {
+      "status": "known",
+      "selected": {
+        "like_count": 47,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+        "source_sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+        "display": "47"
+      },
+      "observations": [
+        {
+          "like_count": 47,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+          "source_sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+          "display": "47"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2115543219094380953": {
+      "status": "known",
+      "selected": {
+        "like_count": 2662,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+        "source_sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+        "display": "2,662"
+      },
+      "observations": [
+        {
+          "like_count": 2662,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+          "source_sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+          "display": "2,662"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2115536832100532718": {
+      "status": "known",
+      "selected": {
+        "like_count": 127,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+        "source_sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+        "display": "127"
+      },
+      "observations": [
+        {
+          "like_count": 127,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+          "source_sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+          "display": "127"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2115534991409270961": {
+      "status": "known",
+      "selected": {
+        "like_count": 634,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+        "source_sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+        "display": "634"
+      },
+      "observations": [
+        {
+          "like_count": 634,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+          "source_sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+          "display": "634"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2115516699680161895": {
+      "status": "known",
+      "selected": {
+        "like_count": 143,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+        "source_sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+        "display": "143"
+      },
+      "observations": [
+        {
+          "like_count": 143,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+          "source_sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+          "display": "143"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2115505481766654251": {
+      "status": "known",
+      "selected": {
+        "like_count": 162,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+        "source_sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+        "display": "162"
+      },
+      "observations": [
+        {
+          "like_count": 162,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+          "source_sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+          "display": "162"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2115501991137096175": {
+      "status": "known",
+      "selected": {
+        "like_count": 6817,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+        "source_sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+        "display": "6,817"
+      },
+      "observations": [
+        {
+          "like_count": 6817,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+          "source_sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+          "display": "6,817"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2115500501811032316": {
+      "status": "known",
+      "selected": {
+        "like_count": 199,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+        "source_sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+        "display": "199"
+      },
+      "observations": [
+        {
+          "like_count": 199,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+          "source_sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+          "display": "199"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2115496503359705483": {
+      "status": "known",
+      "selected": {
+        "like_count": 77,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+        "source_sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+        "display": "77"
+      },
+      "observations": [
+        {
+          "like_count": 77,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+          "source_sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+          "display": "77"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2115493896893665422": {
+      "status": "known",
+      "selected": {
+        "like_count": 5579,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+        "source_sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+        "display": "5,579"
+      },
+      "observations": [
+        {
+          "like_count": 5579,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+          "source_sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+          "display": "5,579"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2115489367607365834": {
+      "status": "known",
+      "selected": {
+        "like_count": 578,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+        "source_sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+        "display": "578"
+      },
+      "observations": [
+        {
+          "like_count": 578,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+          "source_sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+          "display": "578"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2115478910678999494": {
+      "status": "known",
+      "selected": {
+        "like_count": 79,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__-oLAAIAAAATMjExNTQ4OTMxNjM5MDc3NzMyMggAAwAAAAIAAA",
+        "source_sha256": "13832de6eb1855b05e128a7eb8013178b58614ff2e09bf47fb4787d267149e6a",
+        "display": "79"
+      },
+      "observations": [
+        {
+          "like_count": 79,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__-oLAAIAAAATMjExNTQ4OTMxNjM5MDc3NzMyMggAAwAAAAIAAA",
+          "source_sha256": "13832de6eb1855b05e128a7eb8013178b58614ff2e09bf47fb4787d267149e6a",
+          "display": "79"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2115468658692456775": {
+      "status": "known",
+      "selected": {
+        "like_count": 708,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__-oLAAIAAAATMjExNTQ4OTMxNjM5MDc3NzMyMggAAwAAAAIAAA",
+        "source_sha256": "13832de6eb1855b05e128a7eb8013178b58614ff2e09bf47fb4787d267149e6a",
+        "display": "708"
+      },
+      "observations": [
+        {
+          "like_count": 708,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__-oLAAIAAAATMjExNTQ4OTMxNjM5MDc3NzMyMggAAwAAAAIAAA",
+          "source_sha256": "13832de6eb1855b05e128a7eb8013178b58614ff2e09bf47fb4787d267149e6a",
+          "display": "708"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2115438824012632212": {
+      "status": "known",
+      "selected": {
+        "like_count": 695,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__-oLAAIAAAATMjExNTQ4OTMxNjM5MDc3NzMyMggAAwAAAAIAAA",
+        "source_sha256": "13832de6eb1855b05e128a7eb8013178b58614ff2e09bf47fb4787d267149e6a",
+        "display": "695"
+      },
+      "observations": [
+        {
+          "like_count": 695,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__-oLAAIAAAATMjExNTQ4OTMxNjM5MDc3NzMyMggAAwAAAAIAAA",
+          "source_sha256": "13832de6eb1855b05e128a7eb8013178b58614ff2e09bf47fb4787d267149e6a",
+          "display": "695"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2115199819354652880": {
+      "status": "known",
+      "selected": {
+        "like_count": 4562,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__-oLAAIAAAATMjExNTQ4OTMxNjM5MDc3NzMyMggAAwAAAAIAAA",
+        "source_sha256": "13832de6eb1855b05e128a7eb8013178b58614ff2e09bf47fb4787d267149e6a",
+        "display": "4,562"
+      },
+      "observations": [
+        {
+          "like_count": 4562,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__-oLAAIAAAATMjExNTQ4OTMxNjM5MDc3NzMyMggAAwAAAAIAAA",
+          "source_sha256": "13832de6eb1855b05e128a7eb8013178b58614ff2e09bf47fb4787d267149e6a",
+          "display": "4,562"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2115173735355560249": {
+      "status": "known",
+      "selected": {
+        "like_count": 3948,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__-oLAAIAAAATMjExNTQ4OTMxNjM5MDc3NzMyMggAAwAAAAIAAA",
+        "source_sha256": "13832de6eb1855b05e128a7eb8013178b58614ff2e09bf47fb4787d267149e6a",
+        "display": "3,948"
+      },
+      "observations": [
+        {
+          "like_count": 3948,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__-oLAAIAAAATMjExNTQ4OTMxNjM5MDc3NzMyMggAAwAAAAIAAA",
+          "source_sha256": "13832de6eb1855b05e128a7eb8013178b58614ff2e09bf47fb4787d267149e6a",
+          "display": "3,948"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2115115497112883467": {
+      "status": "known",
+      "selected": {
+        "like_count": 2032,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__-oLAAIAAAATMjExNTQ4OTMxNjM5MDc3NzMyMggAAwAAAAIAAA",
+        "source_sha256": "13832de6eb1855b05e128a7eb8013178b58614ff2e09bf47fb4787d267149e6a",
+        "display": "2,032"
+      },
+      "observations": [
+        {
+          "like_count": 2032,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__-oLAAIAAAATMjExNTQ4OTMxNjM5MDc3NzMyMggAAwAAAAIAAA",
+          "source_sha256": "13832de6eb1855b05e128a7eb8013178b58614ff2e09bf47fb4787d267149e6a",
+          "display": "2,032"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2115113872570958005": {
+      "status": "known",
+      "selected": {
+        "like_count": 1645,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__-oLAAIAAAATMjExNTQ4OTMxNjM5MDc3NzMyMggAAwAAAAIAAA",
+        "source_sha256": "13832de6eb1855b05e128a7eb8013178b58614ff2e09bf47fb4787d267149e6a",
+        "display": "1,645"
+      },
+      "observations": [
+        {
+          "like_count": 1645,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__-oLAAIAAAATMjExNTQ4OTMxNjM5MDc3NzMyMggAAwAAAAIAAA",
+          "source_sha256": "13832de6eb1855b05e128a7eb8013178b58614ff2e09bf47fb4787d267149e6a",
+          "display": "1,645"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2114897294835195963": {
+      "status": "known",
+      "selected": {
+        "like_count": 263,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__9ULAAIAAAATMjExNTA4NzAxMjg4NTU4MjA4NQgAAwAAAAIAAA",
+        "source_sha256": "75a2aed256209a652b6415511f419f3ddffc77d188b12db914f38cc27910449a",
+        "display": "263"
+      },
+      "observations": [
+        {
+          "like_count": 263,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__9ULAAIAAAATMjExNTA4NzAxMjg4NTU4MjA4NQgAAwAAAAIAAA",
+          "source_sha256": "75a2aed256209a652b6415511f419f3ddffc77d188b12db914f38cc27910449a",
+          "display": "263"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2114893375459520708": {
+      "status": "known",
+      "selected": {
+        "like_count": 282,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__9ULAAIAAAATMjExNTA4NzAxMjg4NTU4MjA4NQgAAwAAAAIAAA",
+        "source_sha256": "75a2aed256209a652b6415511f419f3ddffc77d188b12db914f38cc27910449a",
+        "display": "282"
+      },
+      "observations": [
+        {
+          "like_count": 282,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__9ULAAIAAAATMjExNTA4NzAxMjg4NTU4MjA4NQgAAwAAAAIAAA",
+          "source_sha256": "75a2aed256209a652b6415511f419f3ddffc77d188b12db914f38cc27910449a",
+          "display": "282"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2114827083126051087": {
+      "status": "known",
+      "selected": {
+        "like_count": 109,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__9ULAAIAAAATMjExNTA4NzAxMjg4NTU4MjA4NQgAAwAAAAIAAA",
+        "source_sha256": "75a2aed256209a652b6415511f419f3ddffc77d188b12db914f38cc27910449a",
+        "display": "109"
+      },
+      "observations": [
+        {
+          "like_count": 109,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__9ULAAIAAAATMjExNTA4NzAxMjg4NTU4MjA4NQgAAwAAAAIAAA",
+          "source_sha256": "75a2aed256209a652b6415511f419f3ddffc77d188b12db914f38cc27910449a",
+          "display": "109"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2114817592967991612": {
+      "status": "known",
+      "selected": {
+        "like_count": 151,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__9ULAAIAAAATMjExNTA4NzAxMjg4NTU4MjA4NQgAAwAAAAIAAA",
+        "source_sha256": "75a2aed256209a652b6415511f419f3ddffc77d188b12db914f38cc27910449a",
+        "display": "151"
+      },
+      "observations": [
+        {
+          "like_count": 151,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__9ULAAIAAAATMjExNTA4NzAxMjg4NTU4MjA4NQgAAwAAAAIAAA",
+          "source_sha256": "75a2aed256209a652b6415511f419f3ddffc77d188b12db914f38cc27910449a",
+          "display": "151"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2114802592672784577": {
+      "status": "known",
+      "selected": {
+        "like_count": 313,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__9ULAAIAAAATMjExNTA4NzAxMjg4NTU4MjA4NQgAAwAAAAIAAA",
+        "source_sha256": "75a2aed256209a652b6415511f419f3ddffc77d188b12db914f38cc27910449a",
+        "display": "313"
+      },
+      "observations": [
+        {
+          "like_count": 313,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__9ULAAIAAAATMjExNTA4NzAxMjg4NTU4MjA4NQgAAwAAAAIAAA",
+          "source_sha256": "75a2aed256209a652b6415511f419f3ddffc77d188b12db914f38cc27910449a",
+          "display": "313"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2114789694416248840": {
+      "status": "known",
+      "selected": {
+        "like_count": 15675,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__9ULAAIAAAATMjExNTA4NzAxMjg4NTU4MjA4NQgAAwAAAAIAAA",
+        "source_sha256": "75a2aed256209a652b6415511f419f3ddffc77d188b12db914f38cc27910449a",
+        "display": "15,675"
+      },
+      "observations": [
+        {
+          "like_count": 15675,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__9ULAAIAAAATMjExNTA4NzAxMjg4NTU4MjA4NQgAAwAAAAIAAA",
+          "source_sha256": "75a2aed256209a652b6415511f419f3ddffc77d188b12db914f38cc27910449a",
+          "display": "15,675"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2114785670359343303": {
+      "status": "known",
+      "selected": {
+        "like_count": 189,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+        "source_sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+        "display": "189"
+      },
+      "observations": [
+        {
+          "like_count": 189,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+          "source_sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+          "display": "189"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2114772871180357888": {
+      "status": "known",
+      "selected": {
+        "like_count": 196,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+        "source_sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+        "display": "196"
+      },
+      "observations": [
+        {
+          "like_count": 196,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+          "source_sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+          "display": "196"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2114767288612069489": {
+      "status": "known",
+      "selected": {
+        "like_count": 3904,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+        "source_sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+        "display": "3,904"
+      },
+      "observations": [
+        {
+          "like_count": 3904,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+          "source_sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+          "display": "3,904"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2114764089381802256": {
+      "status": "known",
+      "selected": {
+        "like_count": 117,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+        "source_sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+        "display": "117"
+      },
+      "observations": [
+        {
+          "like_count": 117,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+          "source_sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+          "display": "117"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2114754613094310199": {
+      "status": "known",
+      "selected": {
+        "like_count": 245,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+        "source_sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+        "display": "245"
+      },
+      "observations": [
+        {
+          "like_count": 245,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+          "source_sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+          "display": "245"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2114751819213672891": {
+      "status": "known",
+      "selected": {
+        "like_count": 1037,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+        "source_sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+        "display": "1,037"
+      },
+      "observations": [
+        {
+          "like_count": 1037,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+          "source_sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+          "display": "1,037"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2114718631669936257": {
+      "status": "known",
+      "selected": {
+        "like_count": 1713,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+        "source_sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+        "display": "1,713"
+      },
+      "observations": [
+        {
+          "like_count": 1713,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+          "source_sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+          "display": "1,713"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2114567520422359518": {
+      "status": "known",
+      "selected": {
+        "like_count": 3450,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+        "source_sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+        "display": "3,450"
+      },
+      "observations": [
+        {
+          "like_count": 3450,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+          "source_sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+          "display": "3,450"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2114556726229991808": {
+      "status": "known",
+      "selected": {
+        "like_count": 147,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+        "source_sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+        "display": "147"
+      },
+      "observations": [
+        {
+          "like_count": 147,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+          "source_sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+          "display": "147"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2114530154525438179": {
+      "status": "known",
+      "selected": {
+        "like_count": 1374,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+        "source_sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+        "display": "1,374"
+      },
+      "observations": [
+        {
+          "like_count": 1374,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+          "source_sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+          "display": "1,374"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2114432596952367464": {
+      "status": "known",
+      "selected": {
+        "like_count": 14434,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+        "source_sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+        "display": "14,434"
+      },
+      "observations": [
+        {
+          "like_count": 14434,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+          "source_sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+          "display": "14,434"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2114421648489410628": {
+      "status": "known",
+      "selected": {
+        "like_count": 2710,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+        "source_sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+        "display": "2,710"
+      },
+      "observations": [
+        {
+          "like_count": 2710,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+          "source_sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+          "display": "2,710"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2114421280648921560": {
+      "status": "known",
+      "selected": {
+        "like_count": 7757,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+        "source_sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+        "display": "7,757"
+      },
+      "observations": [
+        {
+          "like_count": 7757,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+          "source_sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+          "display": "7,757"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2114421220552622103": {
+      "status": "known",
+      "selected": {
+        "like_count": 9799,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+        "source_sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+        "display": "9,799"
+      },
+      "observations": [
+        {
+          "like_count": 9799,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+          "source_sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+          "display": "9,799"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2114092393137844601": {
+      "status": "known",
+      "selected": {
+        "like_count": 465,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__6sLAAIAAAATMjExNDQyMTA1MTI2NjYyNTk2OQgAAwAAAAIAAA",
+        "source_sha256": "a02651207c63e2b8c7bd16d456a87f8e738e3bd3aa75a1726d77d970b2f6d03a",
+        "display": "465"
+      },
+      "observations": [
+        {
+          "like_count": 465,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__6sLAAIAAAATMjExNDQyMTA1MTI2NjYyNTk2OQgAAwAAAAIAAA",
+          "source_sha256": "a02651207c63e2b8c7bd16d456a87f8e738e3bd3aa75a1726d77d970b2f6d03a",
+          "display": "465"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2114078441507336391": {
+      "status": "known",
+      "selected": {
+        "like_count": 2267,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__6sLAAIAAAATMjExNDQyMTA1MTI2NjYyNTk2OQgAAwAAAAIAAA",
+        "source_sha256": "a02651207c63e2b8c7bd16d456a87f8e738e3bd3aa75a1726d77d970b2f6d03a",
+        "display": "2,267"
+      },
+      "observations": [
+        {
+          "like_count": 2267,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__6sLAAIAAAATMjExNDQyMTA1MTI2NjYyNTk2OQgAAwAAAAIAAA",
+          "source_sha256": "a02651207c63e2b8c7bd16d456a87f8e738e3bd3aa75a1726d77d970b2f6d03a",
+          "display": "2,267"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2114076682034294804": {
+      "status": "known",
+      "selected": {
+        "like_count": 997,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__6sLAAIAAAATMjExNDQyMTA1MTI2NjYyNTk2OQgAAwAAAAIAAA",
+        "source_sha256": "a02651207c63e2b8c7bd16d456a87f8e738e3bd3aa75a1726d77d970b2f6d03a",
+        "display": "997"
+      },
+      "observations": [
+        {
+          "like_count": 997,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__6sLAAIAAAATMjExNDQyMTA1MTI2NjYyNTk2OQgAAwAAAAIAAA",
+          "source_sha256": "a02651207c63e2b8c7bd16d456a87f8e738e3bd3aa75a1726d77d970b2f6d03a",
+          "display": "997"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2113753942110667256": {
+      "status": "known",
+      "selected": {
+        "like_count": 23790,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__5YLAAIAAAATMjExMzgxMjkyNzc1NzM1Mjk2MggAAwAAAAIAAA",
+        "source_sha256": "53f30359d1f413fcb0e106e93ea9f34cf8977268f6a1dfa6c76e3ab8ceaa467b",
+        "display": "23,790"
+      },
+      "observations": [
+        {
+          "like_count": 23790,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__5YLAAIAAAATMjExMzgxMjkyNzc1NzM1Mjk2MggAAwAAAAIAAA",
+          "source_sha256": "53f30359d1f413fcb0e106e93ea9f34cf8977268f6a1dfa6c76e3ab8ceaa467b",
+          "display": "23,790"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2113747714236150225": {
+      "status": "known",
+      "selected": {
+        "like_count": 338,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__5YLAAIAAAATMjExMzgxMjkyNzc1NzM1Mjk2MggAAwAAAAIAAA",
+        "source_sha256": "53f30359d1f413fcb0e106e93ea9f34cf8977268f6a1dfa6c76e3ab8ceaa467b",
+        "display": "338"
+      },
+      "observations": [
+        {
+          "like_count": 338,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__5YLAAIAAAATMjExMzgxMjkyNzc1NzM1Mjk2MggAAwAAAAIAAA",
+          "source_sha256": "53f30359d1f413fcb0e106e93ea9f34cf8977268f6a1dfa6c76e3ab8ceaa467b",
+          "display": "338"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2113735123753398696": {
+      "status": "known",
+      "selected": {
+        "like_count": 3809,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__5YLAAIAAAATMjExMzgxMjkyNzc1NzM1Mjk2MggAAwAAAAIAAA",
+        "source_sha256": "53f30359d1f413fcb0e106e93ea9f34cf8977268f6a1dfa6c76e3ab8ceaa467b",
+        "display": "3,809"
+      },
+      "observations": [
+        {
+          "like_count": 3809,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__5YLAAIAAAATMjExMzgxMjkyNzc1NzM1Mjk2MggAAwAAAAIAAA",
+          "source_sha256": "53f30359d1f413fcb0e106e93ea9f34cf8977268f6a1dfa6c76e3ab8ceaa467b",
+          "display": "3,809"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2113729925962424598": {
+      "status": "known",
+      "selected": {
+        "like_count": 158,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__5YLAAIAAAATMjExMzgxMjkyNzc1NzM1Mjk2MggAAwAAAAIAAA",
+        "source_sha256": "53f30359d1f413fcb0e106e93ea9f34cf8977268f6a1dfa6c76e3ab8ceaa467b",
+        "display": "158"
+      },
+      "observations": [
+        {
+          "like_count": 158,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__5YLAAIAAAATMjExMzgxMjkyNzc1NzM1Mjk2MggAAwAAAAIAAA",
+          "source_sha256": "53f30359d1f413fcb0e106e93ea9f34cf8977268f6a1dfa6c76e3ab8ceaa467b",
+          "display": "158"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2113722628225843678": {
+      "status": "known",
+      "selected": {
+        "like_count": 132,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__5YLAAIAAAATMjExMzgxMjkyNzc1NzM1Mjk2MggAAwAAAAIAAA",
+        "source_sha256": "53f30359d1f413fcb0e106e93ea9f34cf8977268f6a1dfa6c76e3ab8ceaa467b",
+        "display": "132"
+      },
+      "observations": [
+        {
+          "like_count": 132,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__5YLAAIAAAATMjExMzgxMjkyNzc1NzM1Mjk2MggAAwAAAAIAAA",
+          "source_sha256": "53f30359d1f413fcb0e106e93ea9f34cf8977268f6a1dfa6c76e3ab8ceaa467b",
+          "display": "132"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2113714449764737128": {
+      "status": "known",
+      "selected": {
+        "like_count": 127,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__5YLAAIAAAATMjExMzgxMjkyNzc1NzM1Mjk2MggAAwAAAAIAAA",
+        "source_sha256": "53f30359d1f413fcb0e106e93ea9f34cf8977268f6a1dfa6c76e3ab8ceaa467b",
+        "display": "127"
+      },
+      "observations": [
+        {
+          "like_count": 127,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__5YLAAIAAAATMjExMzgxMjkyNzc1NzM1Mjk2MggAAwAAAAIAAA",
+          "source_sha256": "53f30359d1f413fcb0e106e93ea9f34cf8977268f6a1dfa6c76e3ab8ceaa467b",
+          "display": "127"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2113713618697003461": {
+      "status": "known",
+      "selected": {
+        "like_count": 66,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__5YLAAIAAAATMjExMzgxMjkyNzc1NzM1Mjk2MggAAwAAAAIAAA",
+        "source_sha256": "53f30359d1f413fcb0e106e93ea9f34cf8977268f6a1dfa6c76e3ab8ceaa467b",
+        "display": "66"
+      },
+      "observations": [
+        {
+          "like_count": 66,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__5YLAAIAAAATMjExMzgxMjkyNzc1NzM1Mjk2MggAAwAAAAIAAA",
+          "source_sha256": "53f30359d1f413fcb0e106e93ea9f34cf8977268f6a1dfa6c76e3ab8ceaa467b",
+          "display": "66"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2113657703197286585": {
+      "status": "known",
+      "selected": {
+        "like_count": 115,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__4ILAAIAAAATMjExMzY1ODEzMTczNzYyNDU4NggAAwAAAAIAAA",
+        "source_sha256": "e2bfcd00ab3aba51953559f35e1a5b5b335f024122fc6ff368839d687f8bbd2e",
+        "display": "115"
+      },
+      "observations": [
+        {
+          "like_count": 115,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__4ILAAIAAAATMjExMzY1ODEzMTczNzYyNDU4NggAAwAAAAIAAA",
+          "source_sha256": "e2bfcd00ab3aba51953559f35e1a5b5b335f024122fc6ff368839d687f8bbd2e",
+          "display": "115"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2113412441795146104": {
+      "status": "known",
+      "selected": {
+        "like_count": 3025,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__4ILAAIAAAATMjExMzY1ODEzMTczNzYyNDU4NggAAwAAAAIAAA",
+        "source_sha256": "e2bfcd00ab3aba51953559f35e1a5b5b335f024122fc6ff368839d687f8bbd2e",
+        "display": "3,025"
+      },
+      "observations": [
+        {
+          "like_count": 3025,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__4ILAAIAAAATMjExMzY1ODEzMTczNzYyNDU4NggAAwAAAAIAAA",
+          "source_sha256": "e2bfcd00ab3aba51953559f35e1a5b5b335f024122fc6ff368839d687f8bbd2e",
+          "display": "3,025"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2113279909984391280": {
+      "status": "known",
+      "selected": {
+        "like_count": 2897,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__4ILAAIAAAATMjExMzY1ODEzMTczNzYyNDU4NggAAwAAAAIAAA",
+        "source_sha256": "e2bfcd00ab3aba51953559f35e1a5b5b335f024122fc6ff368839d687f8bbd2e",
+        "display": "2,897"
+      },
+      "observations": [
+        {
+          "like_count": 2897,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__4ILAAIAAAATMjExMzY1ODEzMTczNzYyNDU4NggAAwAAAAIAAA",
+          "source_sha256": "e2bfcd00ab3aba51953559f35e1a5b5b335f024122fc6ff368839d687f8bbd2e",
+          "display": "2,897"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2113138589152252407": {
+      "status": "known",
+      "selected": {
+        "like_count": 3383,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__20LAAIAAAATMjExMzI3OTkwOTk4NDM5MTI4MAgAAwAAAAIAAA",
+        "source_sha256": "b53ce81ab0683c813d045d448d4d0eaa26a4e14b3668d137c983c04c6ff6a941",
+        "display": "3,383"
+      },
+      "observations": [
+        {
+          "like_count": 3383,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__20LAAIAAAATMjExMzI3OTkwOTk4NDM5MTI4MAgAAwAAAAIAAA",
+          "source_sha256": "b53ce81ab0683c813d045d448d4d0eaa26a4e14b3668d137c983c04c6ff6a941",
+          "display": "3,383"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2113136274596917383": {
+      "status": "known",
+      "selected": {
+        "like_count": 3457,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__20LAAIAAAATMjExMzI3OTkwOTk4NDM5MTI4MAgAAwAAAAIAAA",
+        "source_sha256": "b53ce81ab0683c813d045d448d4d0eaa26a4e14b3668d137c983c04c6ff6a941",
+        "display": "3,457"
+      },
+      "observations": [
+        {
+          "like_count": 3457,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__20LAAIAAAATMjExMzI3OTkwOTk4NDM5MTI4MAgAAwAAAAIAAA",
+          "source_sha256": "b53ce81ab0683c813d045d448d4d0eaa26a4e14b3668d137c983c04c6ff6a941",
+          "display": "3,457"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2113133175040012586": {
+      "status": "unknown",
+      "reason": "No matching own exact integer like stat in available pinned source pages",
+      "observations": []
+    },
+    "x-2113099800333729983": {
+      "status": "known",
+      "selected": {
+        "like_count": 698,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__20LAAIAAAATMjExMzI3OTkwOTk4NDM5MTI4MAgAAwAAAAIAAA",
+        "source_sha256": "b53ce81ab0683c813d045d448d4d0eaa26a4e14b3668d137c983c04c6ff6a941",
+        "display": "698"
+      },
+      "observations": [
+        {
+          "like_count": 698,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__20LAAIAAAATMjExMzI3OTkwOTk4NDM5MTI4MAgAAwAAAAIAAA",
+          "source_sha256": "b53ce81ab0683c813d045d448d4d0eaa26a4e14b3668d137c983c04c6ff6a941",
+          "display": "698"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2112971679877980162": {
+      "status": "known",
+      "selected": {
+        "like_count": 326,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__1gLAAIAAAATMjExMzA5OTgwMDMzMzcyOTk4MwgAAwAAAAIAAA",
+        "source_sha256": "9cd472434f536a7dce41f4b9e8124f079628fa113f7a4be4239111da94e62671",
+        "display": "326"
+      },
+      "observations": [
+        {
+          "like_count": 326,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__1gLAAIAAAATMjExMzA5OTgwMDMzMzcyOTk4MwgAAwAAAAIAAA",
+          "source_sha256": "9cd472434f536a7dce41f4b9e8124f079628fa113f7a4be4239111da94e62671",
+          "display": "326"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2112965388304593185": {
+      "status": "known",
+      "selected": {
+        "like_count": 247,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__1gLAAIAAAATMjExMzA5OTgwMDMzMzcyOTk4MwgAAwAAAAIAAA",
+        "source_sha256": "9cd472434f536a7dce41f4b9e8124f079628fa113f7a4be4239111da94e62671",
+        "display": "247"
+      },
+      "observations": [
+        {
+          "like_count": 247,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__1gLAAIAAAATMjExMzA5OTgwMDMzMzcyOTk4MwgAAwAAAAIAAA",
+          "source_sha256": "9cd472434f536a7dce41f4b9e8124f079628fa113f7a4be4239111da94e62671",
+          "display": "247"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2112955322000380122": {
+      "status": "known",
+      "selected": {
+        "like_count": 363,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__1gLAAIAAAATMjExMzA5OTgwMDMzMzcyOTk4MwgAAwAAAAIAAA",
+        "source_sha256": "9cd472434f536a7dce41f4b9e8124f079628fa113f7a4be4239111da94e62671",
+        "display": "363"
+      },
+      "observations": [
+        {
+          "like_count": 363,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__1gLAAIAAAATMjExMzA5OTgwMDMzMzcyOTk4MwgAAwAAAAIAAA",
+          "source_sha256": "9cd472434f536a7dce41f4b9e8124f079628fa113f7a4be4239111da94e62671",
+          "display": "363"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2112946262383452170": {
+      "status": "known",
+      "selected": {
+        "like_count": 90,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__1gLAAIAAAATMjExMzA5OTgwMDMzMzcyOTk4MwgAAwAAAAIAAA",
+        "source_sha256": "9cd472434f536a7dce41f4b9e8124f079628fa113f7a4be4239111da94e62671",
+        "display": "90"
+      },
+      "observations": [
+        {
+          "like_count": 90,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__1gLAAIAAAATMjExMzA5OTgwMDMzMzcyOTk4MwgAAwAAAAIAAA",
+          "source_sha256": "9cd472434f536a7dce41f4b9e8124f079628fa113f7a4be4239111da94e62671",
+          "display": "90"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2112938774216802392": {
+      "status": "known",
+      "selected": {
+        "like_count": 631,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__1gLAAIAAAATMjExMzA5OTgwMDMzMzcyOTk4MwgAAwAAAAIAAA",
+        "source_sha256": "9cd472434f536a7dce41f4b9e8124f079628fa113f7a4be4239111da94e62671",
+        "display": "631"
+      },
+      "observations": [
+        {
+          "like_count": 631,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__1gLAAIAAAATMjExMzA5OTgwMDMzMzcyOTk4MwgAAwAAAAIAAA",
+          "source_sha256": "9cd472434f536a7dce41f4b9e8124f079628fa113f7a4be4239111da94e62671",
+          "display": "631"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2112907401053819103": {
+      "status": "known",
+      "selected": {
+        "like_count": 696,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__1gLAAIAAAATMjExMzA5OTgwMDMzMzcyOTk4MwgAAwAAAAIAAA",
+        "source_sha256": "9cd472434f536a7dce41f4b9e8124f079628fa113f7a4be4239111da94e62671",
+        "display": "696"
+      },
+      "observations": [
+        {
+          "like_count": 696,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__1gLAAIAAAATMjExMzA5OTgwMDMzMzcyOTk4MwgAAwAAAAIAAA",
+          "source_sha256": "9cd472434f536a7dce41f4b9e8124f079628fa113f7a4be4239111da94e62671",
+          "display": "696"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2112743983323435087": {
+      "status": "known",
+      "selected": {
+        "like_count": 7103,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__0MLAAIAAAATMjExMjc3MjQzMzAwMjI3MDk5MQgAAwAAAAIAAA",
+        "source_sha256": "4e784000ab4e06e68dd1430c9efcca674ad8b4f1b901de7670da47ba55322ee5",
+        "display": "7,103"
+      },
+      "observations": [
+        {
+          "like_count": 7103,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__0MLAAIAAAATMjExMjc3MjQzMzAwMjI3MDk5MQgAAwAAAAIAAA",
+          "source_sha256": "4e784000ab4e06e68dd1430c9efcca674ad8b4f1b901de7670da47ba55322ee5",
+          "display": "7,103"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2112743926192906690": {
+      "status": "known",
+      "selected": {
+        "like_count": 13471,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__0MLAAIAAAATMjExMjc3MjQzMzAwMjI3MDk5MQgAAwAAAAIAAA",
+        "source_sha256": "4e784000ab4e06e68dd1430c9efcca674ad8b4f1b901de7670da47ba55322ee5",
+        "display": "13,471"
+      },
+      "observations": [
+        {
+          "like_count": 13471,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__0MLAAIAAAATMjExMjc3MjQzMzAwMjI3MDk5MQgAAwAAAAIAAA",
+          "source_sha256": "4e784000ab4e06e68dd1430c9efcca674ad8b4f1b901de7670da47ba55322ee5",
+          "display": "13,471"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2112743261655683505": {
+      "status": "known",
+      "selected": {
+        "like_count": 3340,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__0MLAAIAAAATMjExMjc3MjQzMzAwMjI3MDk5MQgAAwAAAAIAAA",
+        "source_sha256": "4e784000ab4e06e68dd1430c9efcca674ad8b4f1b901de7670da47ba55322ee5",
+        "display": "3,340"
+      },
+      "observations": [
+        {
+          "like_count": 3340,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__0MLAAIAAAATMjExMjc3MjQzMzAwMjI3MDk5MQgAAwAAAAIAAA",
+          "source_sha256": "4e784000ab4e06e68dd1430c9efcca674ad8b4f1b901de7670da47ba55322ee5",
+          "display": "3,340"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2112734298998730807": {
+      "status": "known",
+      "selected": {
+        "like_count": 4239,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__0MLAAIAAAATMjExMjc3MjQzMzAwMjI3MDk5MQgAAwAAAAIAAA",
+        "source_sha256": "4e784000ab4e06e68dd1430c9efcca674ad8b4f1b901de7670da47ba55322ee5",
+        "display": "4,239"
+      },
+      "observations": [
+        {
+          "like_count": 4239,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__0MLAAIAAAATMjExMjc3MjQzMzAwMjI3MDk5MQgAAwAAAAIAAA",
+          "source_sha256": "4e784000ab4e06e68dd1430c9efcca674ad8b4f1b901de7670da47ba55322ee5",
+          "display": "4,239"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2112733554782208410": {
+      "status": "known",
+      "selected": {
+        "like_count": 40236,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__0MLAAIAAAATMjExMjc3MjQzMzAwMjI3MDk5MQgAAwAAAAIAAA",
+        "source_sha256": "4e784000ab4e06e68dd1430c9efcca674ad8b4f1b901de7670da47ba55322ee5",
+        "display": "40,236"
+      },
+      "observations": [
+        {
+          "like_count": 40236,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__0MLAAIAAAATMjExMjc3MjQzMzAwMjI3MDk5MQgAAwAAAAIAAA",
+          "source_sha256": "4e784000ab4e06e68dd1430c9efcca674ad8b4f1b901de7670da47ba55322ee5",
+          "display": "40,236"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2112733077055099042": {
+      "status": "known",
+      "selected": {
+        "like_count": 3649,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__0MLAAIAAAATMjExMjc3MjQzMzAwMjI3MDk5MQgAAwAAAAIAAA",
+        "source_sha256": "4e784000ab4e06e68dd1430c9efcca674ad8b4f1b901de7670da47ba55322ee5",
+        "display": "3,649"
+      },
+      "observations": [
+        {
+          "like_count": 3649,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__0MLAAIAAAATMjExMjc3MjQzMzAwMjI3MDk5MQgAAwAAAAIAAA",
+          "source_sha256": "4e784000ab4e06e68dd1430c9efcca674ad8b4f1b901de7670da47ba55322ee5",
+          "display": "3,649"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2112643588173799540": {
+      "status": "known",
+      "selected": {
+        "like_count": 302,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__0MLAAIAAAATMjExMjc3MjQzMzAwMjI3MDk5MQgAAwAAAAIAAA",
+        "source_sha256": "4e784000ab4e06e68dd1430c9efcca674ad8b4f1b901de7670da47ba55322ee5",
+        "display": "302"
+      },
+      "observations": [
+        {
+          "like_count": 302,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__0MLAAIAAAATMjExMjc3MjQzMzAwMjI3MDk5MQgAAwAAAAIAAA",
+          "source_sha256": "4e784000ab4e06e68dd1430c9efcca674ad8b4f1b901de7670da47ba55322ee5",
+          "display": "302"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2112566983401345523": {
+      "status": "known",
+      "selected": {
+        "like_count": 396,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__0MLAAIAAAATMjExMjc3MjQzMzAwMjI3MDk5MQgAAwAAAAIAAA",
+        "source_sha256": "4e784000ab4e06e68dd1430c9efcca674ad8b4f1b901de7670da47ba55322ee5",
+        "display": "396"
+      },
+      "observations": [
+        {
+          "like_count": 396,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__0MLAAIAAAATMjExMjc3MjQzMzAwMjI3MDk5MQgAAwAAAAIAAA",
+          "source_sha256": "4e784000ab4e06e68dd1430c9efcca674ad8b4f1b901de7670da47ba55322ee5",
+          "display": "396"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2112289082672140676": {
+      "status": "known",
+      "selected": {
+        "like_count": 3859,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__y4LAAIAAAATMjExMjM5NTMzNDA2NDQ3NjQ2MAgAAwAAAAIAAA",
+        "source_sha256": "e08060e9c1e91468a4283c5e15acdef9101f7b86c80e83a6692a397ce355bf8f",
+        "display": "3,859"
+      },
+      "observations": [
+        {
+          "like_count": 3859,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__y4LAAIAAAATMjExMjM5NTMzNDA2NDQ3NjQ2MAgAAwAAAAIAAA",
+          "source_sha256": "e08060e9c1e91468a4283c5e15acdef9101f7b86c80e83a6692a397ce355bf8f",
+          "display": "3,859"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2112273859650928698": {
+      "status": "known",
+      "selected": {
+        "like_count": 6429,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__y4LAAIAAAATMjExMjM5NTMzNDA2NDQ3NjQ2MAgAAwAAAAIAAA",
+        "source_sha256": "e08060e9c1e91468a4283c5e15acdef9101f7b86c80e83a6692a397ce355bf8f",
+        "display": "6,429"
+      },
+      "observations": [
+        {
+          "like_count": 6429,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__y4LAAIAAAATMjExMjM5NTMzNDA2NDQ3NjQ2MAgAAwAAAAIAAA",
+          "source_sha256": "e08060e9c1e91468a4283c5e15acdef9101f7b86c80e83a6692a397ce355bf8f",
+          "display": "6,429"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2112272728967299488": {
+      "status": "known",
+      "selected": {
+        "like_count": 789,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__y4LAAIAAAATMjExMjM5NTMzNDA2NDQ3NjQ2MAgAAwAAAAIAAA",
+        "source_sha256": "e08060e9c1e91468a4283c5e15acdef9101f7b86c80e83a6692a397ce355bf8f",
+        "display": "789"
+      },
+      "observations": [
+        {
+          "like_count": 789,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__y4LAAIAAAATMjExMjM5NTMzNDA2NDQ3NjQ2MAgAAwAAAAIAAA",
+          "source_sha256": "e08060e9c1e91468a4283c5e15acdef9101f7b86c80e83a6692a397ce355bf8f",
+          "display": "789"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2112265793509421386": {
+      "status": "known",
+      "selected": {
+        "like_count": 513,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__y4LAAIAAAATMjExMjM5NTMzNDA2NDQ3NjQ2MAgAAwAAAAIAAA",
+        "source_sha256": "e08060e9c1e91468a4283c5e15acdef9101f7b86c80e83a6692a397ce355bf8f",
+        "display": "513"
+      },
+      "observations": [
+        {
+          "like_count": 513,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__y4LAAIAAAATMjExMjM5NTMzNDA2NDQ3NjQ2MAgAAwAAAAIAAA",
+          "source_sha256": "e08060e9c1e91468a4283c5e15acdef9101f7b86c80e83a6692a397ce355bf8f",
+          "display": "513"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2112260307057807770": {
+      "status": "known",
+      "selected": {
+        "like_count": 1163,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__y4LAAIAAAATMjExMjM5NTMzNDA2NDQ3NjQ2MAgAAwAAAAIAAA",
+        "source_sha256": "e08060e9c1e91468a4283c5e15acdef9101f7b86c80e83a6692a397ce355bf8f",
+        "display": "1,163"
+      },
+      "observations": [
+        {
+          "like_count": 1163,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__y4LAAIAAAATMjExMjM5NTMzNDA2NDQ3NjQ2MAgAAwAAAAIAAA",
+          "source_sha256": "e08060e9c1e91468a4283c5e15acdef9101f7b86c80e83a6692a397ce355bf8f",
+          "display": "1,163"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2112258376306667708": {
+      "status": "known",
+      "selected": {
+        "like_count": 347,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__y4LAAIAAAATMjExMjM5NTMzNDA2NDQ3NjQ2MAgAAwAAAAIAAA",
+        "source_sha256": "e08060e9c1e91468a4283c5e15acdef9101f7b86c80e83a6692a397ce355bf8f",
+        "display": "347"
+      },
+      "observations": [
+        {
+          "like_count": 347,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__y4LAAIAAAATMjExMjM5NTMzNDA2NDQ3NjQ2MAgAAwAAAAIAAA",
+          "source_sha256": "e08060e9c1e91468a4283c5e15acdef9101f7b86c80e83a6692a397ce355bf8f",
+          "display": "347"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2112247420155310449": {
+      "status": "known",
+      "selected": {
+        "like_count": 684,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__y4LAAIAAAATMjExMjM5NTMzNDA2NDQ3NjQ2MAgAAwAAAAIAAA",
+        "source_sha256": "e08060e9c1e91468a4283c5e15acdef9101f7b86c80e83a6692a397ce355bf8f",
+        "display": "684"
+      },
+      "observations": [
+        {
+          "like_count": 684,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__y4LAAIAAAATMjExMjM5NTMzNDA2NDQ3NjQ2MAgAAwAAAAIAAA",
+          "source_sha256": "e08060e9c1e91468a4283c5e15acdef9101f7b86c80e83a6692a397ce355bf8f",
+          "display": "684"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2112224444454441260": {
+      "status": "known",
+      "selected": {
+        "like_count": 7950,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__y4LAAIAAAATMjExMjM5NTMzNDA2NDQ3NjQ2MAgAAwAAAAIAAA",
+        "source_sha256": "e08060e9c1e91468a4283c5e15acdef9101f7b86c80e83a6692a397ce355bf8f",
+        "display": "7,950"
+      },
+      "observations": [
+        {
+          "like_count": 7950,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__y4LAAIAAAATMjExMjM5NTMzNDA2NDQ3NjQ2MAgAAwAAAAIAAA",
+          "source_sha256": "e08060e9c1e91468a4283c5e15acdef9101f7b86c80e83a6692a397ce355bf8f",
+          "display": "7,950"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2112223424495886627": {
+      "status": "known",
+      "selected": {
+        "like_count": 3034,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__y4LAAIAAAATMjExMjM5NTMzNDA2NDQ3NjQ2MAgAAwAAAAIAAA",
+        "source_sha256": "e08060e9c1e91468a4283c5e15acdef9101f7b86c80e83a6692a397ce355bf8f",
+        "display": "3,034"
+      },
+      "observations": [
+        {
+          "like_count": 3034,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__y4LAAIAAAATMjExMjM5NTMzNDA2NDQ3NjQ2MAgAAwAAAAIAAA",
+          "source_sha256": "e08060e9c1e91468a4283c5e15acdef9101f7b86c80e83a6692a397ce355bf8f",
+          "display": "3,034"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2112203255509885365": {
+      "status": "known",
+      "selected": {
+        "like_count": 564,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__y4LAAIAAAATMjExMjM5NTMzNDA2NDQ3NjQ2MAgAAwAAAAIAAA",
+        "source_sha256": "e08060e9c1e91468a4283c5e15acdef9101f7b86c80e83a6692a397ce355bf8f",
+        "display": "564"
+      },
+      "observations": [
+        {
+          "like_count": 564,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__y4LAAIAAAATMjExMjM5NTMzNDA2NDQ3NjQ2MAgAAwAAAAIAAA",
+          "source_sha256": "e08060e9c1e91468a4283c5e15acdef9101f7b86c80e83a6692a397ce355bf8f",
+          "display": "564"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2112059764066673080": {
+      "status": "known",
+      "selected": {
+        "like_count": 2237,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__y4LAAIAAAATMjExMjM5NTMzNDA2NDQ3NjQ2MAgAAwAAAAIAAA",
+        "source_sha256": "e08060e9c1e91468a4283c5e15acdef9101f7b86c80e83a6692a397ce355bf8f",
+        "display": "2,237"
+      },
+      "observations": [
+        {
+          "like_count": 2237,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__y4LAAIAAAATMjExMjM5NTMzNDA2NDQ3NjQ2MAgAAwAAAAIAAA",
+          "source_sha256": "e08060e9c1e91468a4283c5e15acdef9101f7b86c80e83a6692a397ce355bf8f",
+          "display": "2,237"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111814798363230325": {
+      "status": "known",
+      "selected": {
+        "like_count": 5592,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__xkLAAIAAAATMjExMTgxNTM3ODY0NDk1OTQyMwgAAwAAAAIAAA",
+        "source_sha256": "91a162df545b08ac2b52c2bfce3c11cafb5d590f87f2f7ff2b36fce9fab7d9ce",
+        "display": "5,592"
+      },
+      "observations": [
+        {
+          "like_count": 5592,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__xkLAAIAAAATMjExMTgxNTM3ODY0NDk1OTQyMwgAAwAAAAIAAA",
+          "source_sha256": "91a162df545b08ac2b52c2bfce3c11cafb5d590f87f2f7ff2b36fce9fab7d9ce",
+          "display": "5,592"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111813538675077249": {
+      "status": "known",
+      "selected": {
+        "like_count": 21655,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__xkLAAIAAAATMjExMTgxNTM3ODY0NDk1OTQyMwgAAwAAAAIAAA",
+        "source_sha256": "91a162df545b08ac2b52c2bfce3c11cafb5d590f87f2f7ff2b36fce9fab7d9ce",
+        "display": "21,655"
+      },
+      "observations": [
+        {
+          "like_count": 21655,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__xkLAAIAAAATMjExMTgxNTM3ODY0NDk1OTQyMwgAAwAAAAIAAA",
+          "source_sha256": "91a162df545b08ac2b52c2bfce3c11cafb5d590f87f2f7ff2b36fce9fab7d9ce",
+          "display": "21,655"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111812695003463718": {
+      "status": "known",
+      "selected": {
+        "like_count": 2875,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__xkLAAIAAAATMjExMTgxNTM3ODY0NDk1OTQyMwgAAwAAAAIAAA",
+        "source_sha256": "91a162df545b08ac2b52c2bfce3c11cafb5d590f87f2f7ff2b36fce9fab7d9ce",
+        "display": "2,875"
+      },
+      "observations": [
+        {
+          "like_count": 2875,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__xkLAAIAAAATMjExMTgxNTM3ODY0NDk1OTQyMwgAAwAAAAIAAA",
+          "source_sha256": "91a162df545b08ac2b52c2bfce3c11cafb5d590f87f2f7ff2b36fce9fab7d9ce",
+          "display": "2,875"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111593216784916859": {
+      "status": "known",
+      "selected": {
+        "like_count": 82600,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__xkLAAIAAAATMjExMTgxNTM3ODY0NDk1OTQyMwgAAwAAAAIAAA",
+        "source_sha256": "91a162df545b08ac2b52c2bfce3c11cafb5d590f87f2f7ff2b36fce9fab7d9ce",
+        "display": "82,600"
+      },
+      "observations": [
+        {
+          "like_count": 82600,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__xkLAAIAAAATMjExMTgxNTM3ODY0NDk1OTQyMwgAAwAAAAIAAA",
+          "source_sha256": "91a162df545b08ac2b52c2bfce3c11cafb5d590f87f2f7ff2b36fce9fab7d9ce",
+          "display": "82,600"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111533722176721363": {
+      "status": "known",
+      "selected": {
+        "like_count": 18741,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__wQLAAIAAAATMjExMTU5MzIxNjc4NDkxNjg1OQgAAwAAAAIAAA",
+        "source_sha256": "584a72e0b77cb5484aa966c61284c79ff2d9d8d1fd74c3fc31b9ecf4aa8e3b7d",
+        "display": "18,741"
+      },
+      "observations": [
+        {
+          "like_count": 18741,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__wQLAAIAAAATMjExMTU5MzIxNjc4NDkxNjg1OQgAAwAAAAIAAA",
+          "source_sha256": "584a72e0b77cb5484aa966c61284c79ff2d9d8d1fd74c3fc31b9ecf4aa8e3b7d",
+          "display": "18,741"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111494754043035989": {
+      "status": "known",
+      "selected": {
+        "like_count": 3608,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__wQLAAIAAAATMjExMTU5MzIxNjc4NDkxNjg1OQgAAwAAAAIAAA",
+        "source_sha256": "584a72e0b77cb5484aa966c61284c79ff2d9d8d1fd74c3fc31b9ecf4aa8e3b7d",
+        "display": "3,608"
+      },
+      "observations": [
+        {
+          "like_count": 3608,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__wQLAAIAAAATMjExMTU5MzIxNjc4NDkxNjg1OQgAAwAAAAIAAA",
+          "source_sha256": "584a72e0b77cb5484aa966c61284c79ff2d9d8d1fd74c3fc31b9ecf4aa8e3b7d",
+          "display": "3,608"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111492889091985785": {
+      "status": "known",
+      "selected": {
+        "like_count": 565,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__wQLAAIAAAATMjExMTU5MzIxNjc4NDkxNjg1OQgAAwAAAAIAAA",
+        "source_sha256": "584a72e0b77cb5484aa966c61284c79ff2d9d8d1fd74c3fc31b9ecf4aa8e3b7d",
+        "display": "565"
+      },
+      "observations": [
+        {
+          "like_count": 565,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__wQLAAIAAAATMjExMTU5MzIxNjc4NDkxNjg1OQgAAwAAAAIAAA",
+          "source_sha256": "584a72e0b77cb5484aa966c61284c79ff2d9d8d1fd74c3fc31b9ecf4aa8e3b7d",
+          "display": "565"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111476065088725438": {
+      "status": "known",
+      "selected": {
+        "like_count": 306,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__wQLAAIAAAATMjExMTU5MzIxNjc4NDkxNjg1OQgAAwAAAAIAAA",
+        "source_sha256": "584a72e0b77cb5484aa966c61284c79ff2d9d8d1fd74c3fc31b9ecf4aa8e3b7d",
+        "display": "306"
+      },
+      "observations": [
+        {
+          "like_count": 306,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__wQLAAIAAAATMjExMTU5MzIxNjc4NDkxNjg1OQgAAwAAAAIAAA",
+          "source_sha256": "584a72e0b77cb5484aa966c61284c79ff2d9d8d1fd74c3fc31b9ecf4aa8e3b7d",
+          "display": "306"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111266845659414897": {
+      "status": "known",
+      "selected": {
+        "like_count": 4013,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__wQLAAIAAAATMjExMTU5MzIxNjc4NDkxNjg1OQgAAwAAAAIAAA",
+        "source_sha256": "584a72e0b77cb5484aa966c61284c79ff2d9d8d1fd74c3fc31b9ecf4aa8e3b7d",
+        "display": "4,013"
+      },
+      "observations": [
+        {
+          "like_count": 4013,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__wQLAAIAAAATMjExMTU5MzIxNjc4NDkxNjg1OQgAAwAAAAIAAA",
+          "source_sha256": "584a72e0b77cb5484aa966c61284c79ff2d9d8d1fd74c3fc31b9ecf4aa8e3b7d",
+          "display": "4,013"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111266275926114505": {
+      "status": "known",
+      "selected": {
+        "like_count": 2140,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__wQLAAIAAAATMjExMTU5MzIxNjc4NDkxNjg1OQgAAwAAAAIAAA",
+        "source_sha256": "584a72e0b77cb5484aa966c61284c79ff2d9d8d1fd74c3fc31b9ecf4aa8e3b7d",
+        "display": "2,140"
+      },
+      "observations": [
+        {
+          "like_count": 2140,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__wQLAAIAAAATMjExMTU5MzIxNjc4NDkxNjg1OQgAAwAAAAIAAA",
+          "source_sha256": "584a72e0b77cb5484aa966c61284c79ff2d9d8d1fd74c3fc31b9ecf4aa8e3b7d",
+          "display": "2,140"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111154455572070542": {
+      "status": "known",
+      "selected": {
+        "like_count": 1151,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__vALAAIAAAATMjExMTI0NjgyNTk5NDc2MDI0NwgAAwAAAAIAAA",
+        "source_sha256": "7f93d289b454a64fc5334a70c337532a81521b92bdd696146533941e0c809c32",
+        "display": "1,151"
+      },
+      "observations": [
+        {
+          "like_count": 1151,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__vALAAIAAAATMjExMTI0NjgyNTk5NDc2MDI0NwgAAwAAAAIAAA",
+          "source_sha256": "7f93d289b454a64fc5334a70c337532a81521b92bdd696146533941e0c809c32",
+          "display": "1,151"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111152971568627734": {
+      "status": "known",
+      "selected": {
+        "like_count": 72,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__vALAAIAAAATMjExMTI0NjgyNTk5NDc2MDI0NwgAAwAAAAIAAA",
+        "source_sha256": "7f93d289b454a64fc5334a70c337532a81521b92bdd696146533941e0c809c32",
+        "display": "72"
+      },
+      "observations": [
+        {
+          "like_count": 72,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__vALAAIAAAATMjExMTI0NjgyNTk5NDc2MDI0NwgAAwAAAAIAAA",
+          "source_sha256": "7f93d289b454a64fc5334a70c337532a81521b92bdd696146533941e0c809c32",
+          "display": "72"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111152402757980571": {
+      "status": "known",
+      "selected": {
+        "like_count": 16981,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__vALAAIAAAATMjExMTI0NjgyNTk5NDc2MDI0NwgAAwAAAAIAAA",
+        "source_sha256": "7f93d289b454a64fc5334a70c337532a81521b92bdd696146533941e0c809c32",
+        "display": "16,981"
+      },
+      "observations": [
+        {
+          "like_count": 16981,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__vALAAIAAAATMjExMTI0NjgyNTk5NDc2MDI0NwgAAwAAAAIAAA",
+          "source_sha256": "7f93d289b454a64fc5334a70c337532a81521b92bdd696146533941e0c809c32",
+          "display": "16,981"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111151682965094900": {
+      "status": "known",
+      "selected": {
+        "like_count": 422,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__vALAAIAAAATMjExMTI0NjgyNTk5NDc2MDI0NwgAAwAAAAIAAA",
+        "source_sha256": "7f93d289b454a64fc5334a70c337532a81521b92bdd696146533941e0c809c32",
+        "display": "422"
+      },
+      "observations": [
+        {
+          "like_count": 422,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__vALAAIAAAATMjExMTI0NjgyNTk5NDc2MDI0NwgAAwAAAAIAAA",
+          "source_sha256": "7f93d289b454a64fc5334a70c337532a81521b92bdd696146533941e0c809c32",
+          "display": "422"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111151216227156096": {
+      "status": "known",
+      "selected": {
+        "like_count": 8697,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__vALAAIAAAATMjExMTI0NjgyNTk5NDc2MDI0NwgAAwAAAAIAAA",
+        "source_sha256": "7f93d289b454a64fc5334a70c337532a81521b92bdd696146533941e0c809c32",
+        "display": "8,697"
+      },
+      "observations": [
+        {
+          "like_count": 8697,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__vALAAIAAAATMjExMTI0NjgyNTk5NDc2MDI0NwgAAwAAAAIAAA",
+          "source_sha256": "7f93d289b454a64fc5334a70c337532a81521b92bdd696146533941e0c809c32",
+          "display": "8,697"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111150724788957486": {
+      "status": "known",
+      "selected": {
+        "like_count": 98,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__vALAAIAAAATMjExMTI0NjgyNTk5NDc2MDI0NwgAAwAAAAIAAA",
+        "source_sha256": "7f93d289b454a64fc5334a70c337532a81521b92bdd696146533941e0c809c32",
+        "display": "98"
+      },
+      "observations": [
+        {
+          "like_count": 98,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__vALAAIAAAATMjExMTI0NjgyNTk5NDc2MDI0NwgAAwAAAAIAAA",
+          "source_sha256": "7f93d289b454a64fc5334a70c337532a81521b92bdd696146533941e0c809c32",
+          "display": "98"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111142375288389731": {
+      "status": "known",
+      "selected": {
+        "like_count": 4521,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__tsLAAIAAAATMjExMTE0ODc1ODE4MDQ3OTE0MQgAAwAAAAIAAA",
+        "source_sha256": "994c22eeed0d3a8cd4b6d3326ab104fb4b26e3d37ec321fbc2867f3705593009",
+        "display": "4,521"
+      },
+      "observations": [
+        {
+          "like_count": 4521,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__tsLAAIAAAATMjExMTE0ODc1ODE4MDQ3OTE0MQgAAwAAAAIAAA",
+          "source_sha256": "994c22eeed0d3a8cd4b6d3326ab104fb4b26e3d37ec321fbc2867f3705593009",
+          "display": "4,521"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111138852824100964": {
+      "status": "known",
+      "selected": {
+        "like_count": 646,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__tsLAAIAAAATMjExMTE0ODc1ODE4MDQ3OTE0MQgAAwAAAAIAAA",
+        "source_sha256": "994c22eeed0d3a8cd4b6d3326ab104fb4b26e3d37ec321fbc2867f3705593009",
+        "display": "646"
+      },
+      "observations": [
+        {
+          "like_count": 646,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__tsLAAIAAAATMjExMTE0ODc1ODE4MDQ3OTE0MQgAAwAAAAIAAA",
+          "source_sha256": "994c22eeed0d3a8cd4b6d3326ab104fb4b26e3d37ec321fbc2867f3705593009",
+          "display": "646"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111138755222667390": {
+      "status": "known",
+      "selected": {
+        "like_count": 119,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__tsLAAIAAAATMjExMTE0ODc1ODE4MDQ3OTE0MQgAAwAAAAIAAA",
+        "source_sha256": "994c22eeed0d3a8cd4b6d3326ab104fb4b26e3d37ec321fbc2867f3705593009",
+        "display": "119"
+      },
+      "observations": [
+        {
+          "like_count": 119,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__tsLAAIAAAATMjExMTE0ODc1ODE4MDQ3OTE0MQgAAwAAAAIAAA",
+          "source_sha256": "994c22eeed0d3a8cd4b6d3326ab104fb4b26e3d37ec321fbc2867f3705593009",
+          "display": "119"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111137087131103576": {
+      "status": "known",
+      "selected": {
+        "like_count": 2228,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__tsLAAIAAAATMjExMTE0ODc1ODE4MDQ3OTE0MQgAAwAAAAIAAA",
+        "source_sha256": "994c22eeed0d3a8cd4b6d3326ab104fb4b26e3d37ec321fbc2867f3705593009",
+        "display": "2,228"
+      },
+      "observations": [
+        {
+          "like_count": 2228,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__tsLAAIAAAATMjExMTE0ODc1ODE4MDQ3OTE0MQgAAwAAAAIAAA",
+          "source_sha256": "994c22eeed0d3a8cd4b6d3326ab104fb4b26e3d37ec321fbc2867f3705593009",
+          "display": "2,228"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111136666056601635": {
+      "status": "known",
+      "selected": {
+        "like_count": 15519,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__tsLAAIAAAATMjExMTE0ODc1ODE4MDQ3OTE0MQgAAwAAAAIAAA",
+        "source_sha256": "994c22eeed0d3a8cd4b6d3326ab104fb4b26e3d37ec321fbc2867f3705593009",
+        "display": "15,519"
+      },
+      "observations": [
+        {
+          "like_count": 15519,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__tsLAAIAAAATMjExMTE0ODc1ODE4MDQ3OTE0MQgAAwAAAAIAAA",
+          "source_sha256": "994c22eeed0d3a8cd4b6d3326ab104fb4b26e3d37ec321fbc2867f3705593009",
+          "display": "15,519"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111122811913711628": {
+      "status": "known",
+      "selected": {
+        "like_count": 557,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__tsLAAIAAAATMjExMTE0ODc1ODE4MDQ3OTE0MQgAAwAAAAIAAA",
+        "source_sha256": "994c22eeed0d3a8cd4b6d3326ab104fb4b26e3d37ec321fbc2867f3705593009",
+        "display": "557"
+      },
+      "observations": [
+        {
+          "like_count": 557,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__tsLAAIAAAATMjExMTE0ODc1ODE4MDQ3OTE0MQgAAwAAAAIAAA",
+          "source_sha256": "994c22eeed0d3a8cd4b6d3326ab104fb4b26e3d37ec321fbc2867f3705593009",
+          "display": "557"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111119017318461856": {
+      "status": "known",
+      "selected": {
+        "like_count": 128,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__tsLAAIAAAATMjExMTE0ODc1ODE4MDQ3OTE0MQgAAwAAAAIAAA",
+        "source_sha256": "994c22eeed0d3a8cd4b6d3326ab104fb4b26e3d37ec321fbc2867f3705593009",
+        "display": "128"
+      },
+      "observations": [
+        {
+          "like_count": 128,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__tsLAAIAAAATMjExMTE0ODc1ODE4MDQ3OTE0MQgAAwAAAAIAAA",
+          "source_sha256": "994c22eeed0d3a8cd4b6d3326ab104fb4b26e3d37ec321fbc2867f3705593009",
+          "display": "128"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111118141124493682": {
+      "status": "known",
+      "selected": {
+        "like_count": 19140,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__tsLAAIAAAATMjExMTE0ODc1ODE4MDQ3OTE0MQgAAwAAAAIAAA",
+        "source_sha256": "994c22eeed0d3a8cd4b6d3326ab104fb4b26e3d37ec321fbc2867f3705593009",
+        "display": "19,140"
+      },
+      "observations": [
+        {
+          "like_count": 19140,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__tsLAAIAAAATMjExMTE0ODc1ODE4MDQ3OTE0MQgAAwAAAAIAAA",
+          "source_sha256": "994c22eeed0d3a8cd4b6d3326ab104fb4b26e3d37ec321fbc2867f3705593009",
+          "display": "19,140"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111117785460048278": {
+      "status": "known",
+      "selected": {
+        "like_count": 14881,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__tsLAAIAAAATMjExMTE0ODc1ODE4MDQ3OTE0MQgAAwAAAAIAAA",
+        "source_sha256": "994c22eeed0d3a8cd4b6d3326ab104fb4b26e3d37ec321fbc2867f3705593009",
+        "display": "14,881"
+      },
+      "observations": [
+        {
+          "like_count": 14881,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__tsLAAIAAAATMjExMTE0ODc1ODE4MDQ3OTE0MQgAAwAAAAIAAA",
+          "source_sha256": "994c22eeed0d3a8cd4b6d3326ab104fb4b26e3d37ec321fbc2867f3705593009",
+          "display": "14,881"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111117430277935603": {
+      "status": "known",
+      "selected": {
+        "like_count": 148,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__tsLAAIAAAATMjExMTE0ODc1ODE4MDQ3OTE0MQgAAwAAAAIAAA",
+        "source_sha256": "994c22eeed0d3a8cd4b6d3326ab104fb4b26e3d37ec321fbc2867f3705593009",
+        "display": "148"
+      },
+      "observations": [
+        {
+          "like_count": 148,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__tsLAAIAAAATMjExMTE0ODc1ODE4MDQ3OTE0MQgAAwAAAAIAAA",
+          "source_sha256": "994c22eeed0d3a8cd4b6d3326ab104fb4b26e3d37ec321fbc2867f3705593009",
+          "display": "148"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111108536650371569": {
+      "status": "known",
+      "selected": {
+        "like_count": 84,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__tsLAAIAAAATMjExMTE0ODc1ODE4MDQ3OTE0MQgAAwAAAAIAAA",
+        "source_sha256": "994c22eeed0d3a8cd4b6d3326ab104fb4b26e3d37ec321fbc2867f3705593009",
+        "display": "84"
+      },
+      "observations": [
+        {
+          "like_count": 84,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__tsLAAIAAAATMjExMTE0ODc1ODE4MDQ3OTE0MQgAAwAAAAIAAA",
+          "source_sha256": "994c22eeed0d3a8cd4b6d3326ab104fb4b26e3d37ec321fbc2867f3705593009",
+          "display": "84"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111107599105941604": {
+      "status": "known",
+      "selected": {
+        "like_count": 96,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__tsLAAIAAAATMjExMTE0ODc1ODE4MDQ3OTE0MQgAAwAAAAIAAA",
+        "source_sha256": "994c22eeed0d3a8cd4b6d3326ab104fb4b26e3d37ec321fbc2867f3705593009",
+        "display": "96"
+      },
+      "observations": [
+        {
+          "like_count": 96,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__tsLAAIAAAATMjExMTE0ODc1ODE4MDQ3OTE0MQgAAwAAAAIAAA",
+          "source_sha256": "994c22eeed0d3a8cd4b6d3326ab104fb4b26e3d37ec321fbc2867f3705593009",
+          "display": "96"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111052381513199685": {
+      "status": "known",
+      "selected": {
+        "like_count": 1573,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__tsLAAIAAAATMjExMTE0ODc1ODE4MDQ3OTE0MQgAAwAAAAIAAA",
+        "source_sha256": "994c22eeed0d3a8cd4b6d3326ab104fb4b26e3d37ec321fbc2867f3705593009",
+        "display": "1,573"
+      },
+      "observations": [
+        {
+          "like_count": 1573,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__tsLAAIAAAATMjExMTE0ODc1ODE4MDQ3OTE0MQgAAwAAAAIAAA",
+          "source_sha256": "994c22eeed0d3a8cd4b6d3326ab104fb4b26e3d37ec321fbc2867f3705593009",
+          "display": "1,573"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111050450451444002": {
+      "status": "known",
+      "selected": {
+        "like_count": 492,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__sYLAAIAAAATMjExMTA1MjM4MTUxMzE5OTY4NQgAAwAAAAIAAA",
+        "source_sha256": "1bba6782310757cb4121d8f6fde11dac6058a4860d49d347c016915c9cabc90a",
+        "display": "492"
+      },
+      "observations": [
+        {
+          "like_count": 492,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__sYLAAIAAAATMjExMTA1MjM4MTUxMzE5OTY4NQgAAwAAAAIAAA",
+          "source_sha256": "1bba6782310757cb4121d8f6fde11dac6058a4860d49d347c016915c9cabc90a",
+          "display": "492"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111048997443871045": {
+      "status": "known",
+      "selected": {
+        "like_count": 1300,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__sYLAAIAAAATMjExMTA1MjM4MTUxMzE5OTY4NQgAAwAAAAIAAA",
+        "source_sha256": "1bba6782310757cb4121d8f6fde11dac6058a4860d49d347c016915c9cabc90a",
+        "display": "1,300"
+      },
+      "observations": [
+        {
+          "like_count": 1300,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__sYLAAIAAAATMjExMTA1MjM4MTUxMzE5OTY4NQgAAwAAAAIAAA",
+          "source_sha256": "1bba6782310757cb4121d8f6fde11dac6058a4860d49d347c016915c9cabc90a",
+          "display": "1,300"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111048642345799690": {
+      "status": "known",
+      "selected": {
+        "like_count": 4056,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__sYLAAIAAAATMjExMTA1MjM4MTUxMzE5OTY4NQgAAwAAAAIAAA",
+        "source_sha256": "1bba6782310757cb4121d8f6fde11dac6058a4860d49d347c016915c9cabc90a",
+        "display": "4,056"
+      },
+      "observations": [
+        {
+          "like_count": 4056,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__sYLAAIAAAATMjExMTA1MjM4MTUxMzE5OTY4NQgAAwAAAAIAAA",
+          "source_sha256": "1bba6782310757cb4121d8f6fde11dac6058a4860d49d347c016915c9cabc90a",
+          "display": "4,056"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2111034113331466635": {
+      "status": "known",
+      "selected": {
+        "like_count": 1248,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__sYLAAIAAAATMjExMTA1MjM4MTUxMzE5OTY4NQgAAwAAAAIAAA",
+        "source_sha256": "1bba6782310757cb4121d8f6fde11dac6058a4860d49d347c016915c9cabc90a",
+        "display": "1,248"
+      },
+      "observations": [
+        {
+          "like_count": 1248,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__sYLAAIAAAATMjExMTA1MjM4MTUxMzE5OTY4NQgAAwAAAAIAAA",
+          "source_sha256": "1bba6782310757cb4121d8f6fde11dac6058a4860d49d347c016915c9cabc90a",
+          "display": "1,248"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2110950979583807948": {
+      "status": "known",
+      "selected": {
+        "like_count": 14925,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__sYLAAIAAAATMjExMTA1MjM4MTUxMzE5OTY4NQgAAwAAAAIAAA",
+        "source_sha256": "1bba6782310757cb4121d8f6fde11dac6058a4860d49d347c016915c9cabc90a",
+        "display": "14,925"
+      },
+      "observations": [
+        {
+          "like_count": 14925,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__sYLAAIAAAATMjExMTA1MjM4MTUxMzE5OTY4NQgAAwAAAAIAAA",
+          "source_sha256": "1bba6782310757cb4121d8f6fde11dac6058a4860d49d347c016915c9cabc90a",
+          "display": "14,925"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2110833027790393680": {
+      "status": "known",
+      "selected": {
+        "like_count": 5630,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__sYLAAIAAAATMjExMTA1MjM4MTUxMzE5OTY4NQgAAwAAAAIAAA",
+        "source_sha256": "1bba6782310757cb4121d8f6fde11dac6058a4860d49d347c016915c9cabc90a",
+        "display": "5,630"
+      },
+      "observations": [
+        {
+          "like_count": 5630,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__sYLAAIAAAATMjExMTA1MjM4MTUxMzE5OTY4NQgAAwAAAAIAAA",
+          "source_sha256": "1bba6782310757cb4121d8f6fde11dac6058a4860d49d347c016915c9cabc90a",
+          "display": "5,630"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2110831885236797507": {
+      "status": "known",
+      "selected": {
+        "like_count": 7060,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__sYLAAIAAAATMjExMTA1MjM4MTUxMzE5OTY4NQgAAwAAAAIAAA",
+        "source_sha256": "1bba6782310757cb4121d8f6fde11dac6058a4860d49d347c016915c9cabc90a",
+        "display": "7,060"
+      },
+      "observations": [
+        {
+          "like_count": 7060,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__sYLAAIAAAATMjExMTA1MjM4MTUxMzE5OTY4NQgAAwAAAAIAAA",
+          "source_sha256": "1bba6782310757cb4121d8f6fde11dac6058a4860d49d347c016915c9cabc90a",
+          "display": "7,060"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2110807510185660543": {
+      "status": "known",
+      "selected": {
+        "like_count": 89,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__sYLAAIAAAATMjExMTA1MjM4MTUxMzE5OTY4NQgAAwAAAAIAAA",
+        "source_sha256": "1bba6782310757cb4121d8f6fde11dac6058a4860d49d347c016915c9cabc90a",
+        "display": "89"
+      },
+      "observations": [
+        {
+          "like_count": 89,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__sYLAAIAAAATMjExMTA1MjM4MTUxMzE5OTY4NQgAAwAAAAIAAA",
+          "source_sha256": "1bba6782310757cb4121d8f6fde11dac6058a4860d49d347c016915c9cabc90a",
+          "display": "89"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2110777006023733637": {
+      "status": "known",
+      "selected": {
+        "like_count": 521,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__rELAAIAAAATMjExMDc3OTAyMDA0ODg0MzE0NQgAAwAAAAIAAA",
+        "source_sha256": "066008a8d14783993318b08f3dc50f99d61d1d769ff7b98774ae263204b009b9",
+        "display": "521"
+      },
+      "observations": [
+        {
+          "like_count": 521,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__rELAAIAAAATMjExMDc3OTAyMDA0ODg0MzE0NQgAAwAAAAIAAA",
+          "source_sha256": "066008a8d14783993318b08f3dc50f99d61d1d769ff7b98774ae263204b009b9",
+          "display": "521"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2110759774782701919": {
+      "status": "known",
+      "selected": {
+        "like_count": 1372,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__rELAAIAAAATMjExMDc3OTAyMDA0ODg0MzE0NQgAAwAAAAIAAA",
+        "source_sha256": "066008a8d14783993318b08f3dc50f99d61d1d769ff7b98774ae263204b009b9",
+        "display": "1,372"
+      },
+      "observations": [
+        {
+          "like_count": 1372,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__rELAAIAAAATMjExMDc3OTAyMDA0ODg0MzE0NQgAAwAAAAIAAA",
+          "source_sha256": "066008a8d14783993318b08f3dc50f99d61d1d769ff7b98774ae263204b009b9",
+          "display": "1,372"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2110759641017995316": {
+      "status": "known",
+      "selected": {
+        "like_count": 4440,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__rELAAIAAAATMjExMDc3OTAyMDA0ODg0MzE0NQgAAwAAAAIAAA",
+        "source_sha256": "066008a8d14783993318b08f3dc50f99d61d1d769ff7b98774ae263204b009b9",
+        "display": "4,440"
+      },
+      "observations": [
+        {
+          "like_count": 4440,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__rELAAIAAAATMjExMDc3OTAyMDA0ODg0MzE0NQgAAwAAAAIAAA",
+          "source_sha256": "066008a8d14783993318b08f3dc50f99d61d1d769ff7b98774ae263204b009b9",
+          "display": "4,440"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2110620895131635740": {
+      "status": "known",
+      "selected": {
+        "like_count": 832,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__rELAAIAAAATMjExMDc3OTAyMDA0ODg0MzE0NQgAAwAAAAIAAA",
+        "source_sha256": "066008a8d14783993318b08f3dc50f99d61d1d769ff7b98774ae263204b009b9",
+        "display": "832"
+      },
+      "observations": [
+        {
+          "like_count": 832,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__rELAAIAAAATMjExMDc3OTAyMDA0ODg0MzE0NQgAAwAAAAIAAA",
+          "source_sha256": "066008a8d14783993318b08f3dc50f99d61d1d769ff7b98774ae263204b009b9",
+          "display": "832"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2110620439336882688": {
+      "status": "known",
+      "selected": {
+        "like_count": 410,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__rELAAIAAAATMjExMDc3OTAyMDA0ODg0MzE0NQgAAwAAAAIAAA",
+        "source_sha256": "066008a8d14783993318b08f3dc50f99d61d1d769ff7b98774ae263204b009b9",
+        "display": "410"
+      },
+      "observations": [
+        {
+          "like_count": 410,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__rELAAIAAAATMjExMDc3OTAyMDA0ODg0MzE0NQgAAwAAAAIAAA",
+          "source_sha256": "066008a8d14783993318b08f3dc50f99d61d1d769ff7b98774ae263204b009b9",
+          "display": "410"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2110487813078839593": {
+      "status": "known",
+      "selected": {
+        "like_count": 7516,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__rELAAIAAAATMjExMDc3OTAyMDA0ODg0MzE0NQgAAwAAAAIAAA",
+        "source_sha256": "066008a8d14783993318b08f3dc50f99d61d1d769ff7b98774ae263204b009b9",
+        "display": "7,516"
+      },
+      "observations": [
+        {
+          "like_count": 7516,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__rELAAIAAAATMjExMDc3OTAyMDA0ODg0MzE0NQgAAwAAAAIAAA",
+          "source_sha256": "066008a8d14783993318b08f3dc50f99d61d1d769ff7b98774ae263204b009b9",
+          "display": "7,516"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2110478501690458316": {
+      "status": "known",
+      "selected": {
+        "like_count": 947,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__rELAAIAAAATMjExMDc3OTAyMDA0ODg0MzE0NQgAAwAAAAIAAA",
+        "source_sha256": "066008a8d14783993318b08f3dc50f99d61d1d769ff7b98774ae263204b009b9",
+        "display": "947"
+      },
+      "observations": [
+        {
+          "like_count": 947,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__rELAAIAAAATMjExMDc3OTAyMDA0ODg0MzE0NQgAAwAAAAIAAA",
+          "source_sha256": "066008a8d14783993318b08f3dc50f99d61d1d769ff7b98774ae263204b009b9",
+          "display": "947"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2110470448534126936": {
+      "status": "known",
+      "selected": {
+        "like_count": 634,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__rELAAIAAAATMjExMDc3OTAyMDA0ODg0MzE0NQgAAwAAAAIAAA",
+        "source_sha256": "066008a8d14783993318b08f3dc50f99d61d1d769ff7b98774ae263204b009b9",
+        "display": "634"
+      },
+      "observations": [
+        {
+          "like_count": 634,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__rELAAIAAAATMjExMDc3OTAyMDA0ODg0MzE0NQgAAwAAAAIAAA",
+          "source_sha256": "066008a8d14783993318b08f3dc50f99d61d1d769ff7b98774ae263204b009b9",
+          "display": "634"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2110459878934503730": {
+      "status": "known",
+      "selected": {
+        "like_count": 416,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__rELAAIAAAATMjExMDc3OTAyMDA0ODg0MzE0NQgAAwAAAAIAAA",
+        "source_sha256": "066008a8d14783993318b08f3dc50f99d61d1d769ff7b98774ae263204b009b9",
+        "display": "416"
+      },
+      "observations": [
+        {
+          "like_count": 416,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__rELAAIAAAATMjExMDc3OTAyMDA0ODg0MzE0NQgAAwAAAAIAAA",
+          "source_sha256": "066008a8d14783993318b08f3dc50f99d61d1d769ff7b98774ae263204b009b9",
+          "display": "416"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2110456412086186109": {
+      "status": "known",
+      "selected": {
+        "like_count": 3151,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__rELAAIAAAATMjExMDc3OTAyMDA0ODg0MzE0NQgAAwAAAAIAAA",
+        "source_sha256": "066008a8d14783993318b08f3dc50f99d61d1d769ff7b98774ae263204b009b9",
+        "display": "3,151"
+      },
+      "observations": [
+        {
+          "like_count": 3151,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__rELAAIAAAATMjExMDc3OTAyMDA0ODg0MzE0NQgAAwAAAAIAAA",
+          "source_sha256": "066008a8d14783993318b08f3dc50f99d61d1d769ff7b98774ae263204b009b9",
+          "display": "3,151"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2110454848407703818": {
+      "status": "known",
+      "selected": {
+        "like_count": 149,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__rELAAIAAAATMjExMDc3OTAyMDA0ODg0MzE0NQgAAwAAAAIAAA",
+        "source_sha256": "066008a8d14783993318b08f3dc50f99d61d1d769ff7b98774ae263204b009b9",
+        "display": "149"
+      },
+      "observations": [
+        {
+          "like_count": 149,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__rELAAIAAAATMjExMDc3OTAyMDA0ODg0MzE0NQgAAwAAAAIAAA",
+          "source_sha256": "066008a8d14783993318b08f3dc50f99d61d1d769ff7b98774ae263204b009b9",
+          "display": "149"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2110436057309221103": {
+      "status": "known",
+      "selected": {
+        "like_count": 207,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__rELAAIAAAATMjExMDc3OTAyMDA0ODg0MzE0NQgAAwAAAAIAAA",
+        "source_sha256": "066008a8d14783993318b08f3dc50f99d61d1d769ff7b98774ae263204b009b9",
+        "display": "207"
+      },
+      "observations": [
+        {
+          "like_count": 207,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__rELAAIAAAATMjExMDc3OTAyMDA0ODg0MzE0NQgAAwAAAAIAAA",
+          "source_sha256": "066008a8d14783993318b08f3dc50f99d61d1d769ff7b98774ae263204b009b9",
+          "display": "207"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2110379404903735682": {
+      "status": "known",
+      "selected": {
+        "like_count": 495,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__rELAAIAAAATMjExMDc3OTAyMDA0ODg0MzE0NQgAAwAAAAIAAA",
+        "source_sha256": "066008a8d14783993318b08f3dc50f99d61d1d769ff7b98774ae263204b009b9",
+        "display": "495"
+      },
+      "observations": [
+        {
+          "like_count": 495,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__rELAAIAAAATMjExMDc3OTAyMDA0ODg0MzE0NQgAAwAAAAIAAA",
+          "source_sha256": "066008a8d14783993318b08f3dc50f99d61d1d769ff7b98774ae263204b009b9",
+          "display": "495"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2110185037727449438": {
+      "status": "known",
+      "selected": {
+        "like_count": 3165,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__pwLAAIAAAATMjExMDI1OTI1MTU5NTg3NDM3MwgAAwAAAAIAAA",
+        "source_sha256": "fa8c1a37be185190cbb760af6d9498f521c8a95d199783a70a3b38a2644884c0",
+        "display": "3,165"
+      },
+      "observations": [
+        {
+          "like_count": 3165,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__pwLAAIAAAATMjExMDI1OTI1MTU5NTg3NDM3MwgAAwAAAAIAAA",
+          "source_sha256": "fa8c1a37be185190cbb760af6d9498f521c8a95d199783a70a3b38a2644884c0",
+          "display": "3,165"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2110111282670313854": {
+      "status": "known",
+      "selected": {
+        "like_count": 31287,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__pwLAAIAAAATMjExMDI1OTI1MTU5NTg3NDM3MwgAAwAAAAIAAA",
+        "source_sha256": "fa8c1a37be185190cbb760af6d9498f521c8a95d199783a70a3b38a2644884c0",
+        "display": "31,287"
+      },
+      "observations": [
+        {
+          "like_count": 31287,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__pwLAAIAAAATMjExMDI1OTI1MTU5NTg3NDM3MwgAAwAAAAIAAA",
+          "source_sha256": "fa8c1a37be185190cbb760af6d9498f521c8a95d199783a70a3b38a2644884c0",
+          "display": "31,287"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2110107336438395210": {
+      "status": "known",
+      "selected": {
+        "like_count": 3286,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__pwLAAIAAAATMjExMDI1OTI1MTU5NTg3NDM3MwgAAwAAAAIAAA",
+        "source_sha256": "fa8c1a37be185190cbb760af6d9498f521c8a95d199783a70a3b38a2644884c0",
+        "display": "3,286"
+      },
+      "observations": [
+        {
+          "like_count": 3286,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__pwLAAIAAAATMjExMDI1OTI1MTU5NTg3NDM3MwgAAwAAAAIAAA",
+          "source_sha256": "fa8c1a37be185190cbb760af6d9498f521c8a95d199783a70a3b38a2644884c0",
+          "display": "3,286"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2110106469471543376": {
+      "status": "known",
+      "selected": {
+        "like_count": 6856,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__pwLAAIAAAATMjExMDI1OTI1MTU5NTg3NDM3MwgAAwAAAAIAAA",
+        "source_sha256": "fa8c1a37be185190cbb760af6d9498f521c8a95d199783a70a3b38a2644884c0",
+        "display": "6,856"
+      },
+      "observations": [
+        {
+          "like_count": 6856,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__pwLAAIAAAATMjExMDI1OTI1MTU5NTg3NDM3MwgAAwAAAAIAAA",
+          "source_sha256": "fa8c1a37be185190cbb760af6d9498f521c8a95d199783a70a3b38a2644884c0",
+          "display": "6,856"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2109775509450113161": {
+      "status": "known",
+      "selected": {
+        "like_count": 832,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__pwLAAIAAAATMjExMDI1OTI1MTU5NTg3NDM3MwgAAwAAAAIAAA",
+        "source_sha256": "fa8c1a37be185190cbb760af6d9498f521c8a95d199783a70a3b38a2644884c0",
+        "display": "832"
+      },
+      "observations": [
+        {
+          "like_count": 832,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__pwLAAIAAAATMjExMDI1OTI1MTU5NTg3NDM3MwgAAwAAAAIAAA",
+          "source_sha256": "fa8c1a37be185190cbb760af6d9498f521c8a95d199783a70a3b38a2644884c0",
+          "display": "832"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2109769155696316585": {
+      "status": "known",
+      "selected": {
+        "like_count": 265,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__ocLAAIAAAATMjEwOTc3NTUwOTQ1MDExMzE2MQgAAwAAAAIAAA",
+        "source_sha256": "f0bee9e59ee7113c658a30857eb4e2423f007f40b1d00394151cf833e576ca8c",
+        "display": "265"
+      },
+      "observations": [
+        {
+          "like_count": 265,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__ocLAAIAAAATMjEwOTc3NTUwOTQ1MDExMzE2MQgAAwAAAAIAAA",
+          "source_sha256": "f0bee9e59ee7113c658a30857eb4e2423f007f40b1d00394151cf833e576ca8c",
+          "display": "265"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2109701632627744803": {
+      "status": "known",
+      "selected": {
+        "like_count": 945,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__ocLAAIAAAATMjEwOTc3NTUwOTQ1MDExMzE2MQgAAwAAAAIAAA",
+        "source_sha256": "f0bee9e59ee7113c658a30857eb4e2423f007f40b1d00394151cf833e576ca8c",
+        "display": "945"
+      },
+      "observations": [
+        {
+          "like_count": 945,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__ocLAAIAAAATMjEwOTc3NTUwOTQ1MDExMzE2MQgAAwAAAAIAAA",
+          "source_sha256": "f0bee9e59ee7113c658a30857eb4e2423f007f40b1d00394151cf833e576ca8c",
+          "display": "945"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2109692069568487561": {
+      "status": "known",
+      "selected": {
+        "like_count": 599,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__ocLAAIAAAATMjEwOTc3NTUwOTQ1MDExMzE2MQgAAwAAAAIAAA",
+        "source_sha256": "f0bee9e59ee7113c658a30857eb4e2423f007f40b1d00394151cf833e576ca8c",
+        "display": "599"
+      },
+      "observations": [
+        {
+          "like_count": 599,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__ocLAAIAAAATMjEwOTc3NTUwOTQ1MDExMzE2MQgAAwAAAAIAAA",
+          "source_sha256": "f0bee9e59ee7113c658a30857eb4e2423f007f40b1d00394151cf833e576ca8c",
+          "display": "599"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2109682450523627718": {
+      "status": "known",
+      "selected": {
+        "like_count": 351,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__ocLAAIAAAATMjEwOTc3NTUwOTQ1MDExMzE2MQgAAwAAAAIAAA",
+        "source_sha256": "f0bee9e59ee7113c658a30857eb4e2423f007f40b1d00394151cf833e576ca8c",
+        "display": "351"
+      },
+      "observations": [
+        {
+          "like_count": 351,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__ocLAAIAAAATMjEwOTc3NTUwOTQ1MDExMzE2MQgAAwAAAAIAAA",
+          "source_sha256": "f0bee9e59ee7113c658a30857eb4e2423f007f40b1d00394151cf833e576ca8c",
+          "display": "351"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2109682348086206528": {
+      "status": "known",
+      "selected": {
+        "like_count": 104,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__ocLAAIAAAATMjEwOTc3NTUwOTQ1MDExMzE2MQgAAwAAAAIAAA",
+        "source_sha256": "f0bee9e59ee7113c658a30857eb4e2423f007f40b1d00394151cf833e576ca8c",
+        "display": "104"
+      },
+      "observations": [
+        {
+          "like_count": 104,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__ocLAAIAAAATMjEwOTc3NTUwOTQ1MDExMzE2MQgAAwAAAAIAAA",
+          "source_sha256": "f0bee9e59ee7113c658a30857eb4e2423f007f40b1d00394151cf833e576ca8c",
+          "display": "104"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2109660990455308297": {
+      "status": "known",
+      "selected": {
+        "like_count": 969,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__nMLAAIAAAATMjEwOTY3NjQ2NzI2OTM5MDYwNQgAAwAAAAIAAA",
+        "source_sha256": "3b1bc4a168527b251dc79a59f11e2039c65953fc8d2758c7a189c1f6a167fb22",
+        "display": "969"
+      },
+      "observations": [
+        {
+          "like_count": 969,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__nMLAAIAAAATMjEwOTY3NjQ2NzI2OTM5MDYwNQgAAwAAAAIAAA",
+          "source_sha256": "3b1bc4a168527b251dc79a59f11e2039c65953fc8d2758c7a189c1f6a167fb22",
+          "display": "969"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2109627633843507603": {
+      "status": "known",
+      "selected": {
+        "like_count": 199,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__nMLAAIAAAATMjEwOTY3NjQ2NzI2OTM5MDYwNQgAAwAAAAIAAA",
+        "source_sha256": "3b1bc4a168527b251dc79a59f11e2039c65953fc8d2758c7a189c1f6a167fb22",
+        "display": "199"
+      },
+      "observations": [
+        {
+          "like_count": 199,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__nMLAAIAAAATMjEwOTY3NjQ2NzI2OTM5MDYwNQgAAwAAAAIAAA",
+          "source_sha256": "3b1bc4a168527b251dc79a59f11e2039c65953fc8d2758c7a189c1f6a167fb22",
+          "display": "199"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2109426968995188820": {
+      "status": "known",
+      "selected": {
+        "like_count": 2213,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__nMLAAIAAAATMjEwOTY3NjQ2NzI2OTM5MDYwNQgAAwAAAAIAAA",
+        "source_sha256": "3b1bc4a168527b251dc79a59f11e2039c65953fc8d2758c7a189c1f6a167fb22",
+        "display": "2,213"
+      },
+      "observations": [
+        {
+          "like_count": 2213,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__nMLAAIAAAATMjEwOTY3NjQ2NzI2OTM5MDYwNQgAAwAAAAIAAA",
+          "source_sha256": "3b1bc4a168527b251dc79a59f11e2039c65953fc8d2758c7a189c1f6a167fb22",
+          "display": "2,213"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2109393424608543123": {
+      "status": "known",
+      "selected": {
+        "like_count": 8859,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__nMLAAIAAAATMjEwOTY3NjQ2NzI2OTM5MDYwNQgAAwAAAAIAAA",
+        "source_sha256": "3b1bc4a168527b251dc79a59f11e2039c65953fc8d2758c7a189c1f6a167fb22",
+        "display": "8,859"
+      },
+      "observations": [
+        {
+          "like_count": 8859,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__nMLAAIAAAATMjEwOTY3NjQ2NzI2OTM5MDYwNQgAAwAAAAIAAA",
+          "source_sha256": "3b1bc4a168527b251dc79a59f11e2039c65953fc8d2758c7a189c1f6a167fb22",
+          "display": "8,859"
+        }
+      ],
+      "same_time_conflict": false
+    },
+    "x-2082551683402584345": {
+      "status": "known",
+      "selected": {
+        "like_count": 1786,
+        "captured_at": "2026-10-28T23:51:54.990547+00:00",
+        "capture_precision": "collection-run-start",
+        "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+        "source_sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+        "display": "1,786"
+      },
+      "observations": [
+        {
+          "like_count": 1786,
+          "captured_at": "2026-10-28T23:51:54.990547+00:00",
+          "capture_precision": "collection-run-start",
+          "source_url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+          "source_sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+          "display": "1,786"
+        }
+      ],
+      "same_time_conflict": false
+    }
+  }
+}
