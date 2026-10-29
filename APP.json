@@ -1,0 +1,22 @@
+{
+  "slug": "cruz-says",
+  "name": "Cruz Says",
+  "wordmark": "CRUZ",
+  "subject": "Ted Cruz",
+  "handle": "tedcruz",
+  "initials": "TC",
+  "color": "#88615b",
+  "profile": "https://x.com/tedcruz",
+  "origin": "https://nanalab.kr/cruz-says",
+  "photo": null,
+  "portrait": "assets/portrait.svg",
+  "audience": "public",
+  "languages": [
+    "en"
+  ],
+  "coverage": "partial",
+  "content_mode": "official_embeds",
+  "browse_timezone": "UTC",
+  "reposts_excluded": true,
+  "translations": false
+}

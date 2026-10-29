@@ -1,0 +1,241 @@
+{
+  "slug": "cruz-says",
+  "captured_at": "2026-10-28T23:51:54.990547+00:00",
+  "coverage": "partial",
+  "records": 147,
+  "first": "2026-07-29",
+  "last": "2026-10-28",
+  "exact_time": 147,
+  "sources": [
+    {
+      "id": "nitter-public-timeline",
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+      "creator": "Nitter public timeline (original X account linked for every record)",
+      "redistributed_fields": [
+        "post_id",
+        "author",
+        "ID-derived timestamp",
+        "original_permalink",
+        "post_kind"
+      ],
+      "body_rights": "Not established; all scraped bodies, media, translations and third-party summaries excluded"
+    }
+  ],
+  "collection_limit_pages": 20,
+  "pages": [
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies",
+      "sha256": "e9fc784d8fce058967e4ee6cfa03a6ad888a97887c22aa6084a4e776cdd13ee5",
+      "timeline_items": 21,
+      "accepted": 14,
+      "excluded": {
+        "repost": 7
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__-oLAAIAAAATMjExNTQ4OTMxNjM5MDc3NzMyMggAAwAAAAIAAA",
+      "sha256": "13832de6eb1855b05e128a7eb8013178b58614ff2e09bf47fb4787d267149e6a",
+      "timeline_items": 21,
+      "accepted": 7,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 13
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__9ULAAIAAAATMjExNTA4NzAxMjg4NTU4MjA4NQgAAwAAAAIAAA",
+      "sha256": "75a2aed256209a652b6415511f419f3ddffc77d188b12db914f38cc27910449a",
+      "timeline_items": 21,
+      "accepted": 6,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 14
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__8ALAAIAAAATMjExNDc4OTU0Njg2NDg4NjEyOAgAAwAAAAIAAA",
+      "sha256": "f3be2cdfa10cea89e55ba19934cd7c75825b23333d0c020147c77cb41f4d1e59",
+      "timeline_items": 21,
+      "accepted": 14,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 6
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__6sLAAIAAAATMjExNDQyMTA1MTI2NjYyNTk2OQgAAwAAAAIAAA",
+      "sha256": "a02651207c63e2b8c7bd16d456a87f8e738e3bd3aa75a1726d77d970b2f6d03a",
+      "timeline_items": 21,
+      "accepted": 3,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 17
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__5YLAAIAAAATMjExMzgxMjkyNzc1NzM1Mjk2MggAAwAAAAIAAA",
+      "sha256": "53f30359d1f413fcb0e106e93ea9f34cf8977268f6a1dfa6c76e3ab8ceaa467b",
+      "timeline_items": 20,
+      "accepted": 7,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 12
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__4ILAAIAAAATMjExMzY1ODEzMTczNzYyNDU4NggAAwAAAAIAAA",
+      "sha256": "e2bfcd00ab3aba51953559f35e1a5b5b335f024122fc6ff368839d687f8bbd2e",
+      "timeline_items": 21,
+      "accepted": 3,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 17
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__20LAAIAAAATMjExMzI3OTkwOTk4NDM5MTI4MAgAAwAAAAIAAA",
+      "sha256": "b53ce81ab0683c813d045d448d4d0eaa26a4e14b3668d137c983c04c6ff6a941",
+      "timeline_items": 21,
+      "accepted": 4,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 16
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__1gLAAIAAAATMjExMzA5OTgwMDMzMzcyOTk4MwgAAwAAAAIAAA",
+      "sha256": "9cd472434f536a7dce41f4b9e8124f079628fa113f7a4be4239111da94e62671",
+      "timeline_items": 21,
+      "accepted": 6,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 14
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__0MLAAIAAAATMjExMjc3MjQzMzAwMjI3MDk5MQgAAwAAAAIAAA",
+      "sha256": "4e784000ab4e06e68dd1430c9efcca674ad8b4f1b901de7670da47ba55322ee5",
+      "timeline_items": 21,
+      "accepted": 8,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 12
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__y4LAAIAAAATMjExMjM5NTMzNDA2NDQ3NjQ2MAgAAwAAAAIAAA",
+      "sha256": "e08060e9c1e91468a4283c5e15acdef9101f7b86c80e83a6692a397ce355bf8f",
+      "timeline_items": 21,
+      "accepted": 11,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 9
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__xkLAAIAAAATMjExMTgxNTM3ODY0NDk1OTQyMwgAAwAAAAIAAA",
+      "sha256": "91a162df545b08ac2b52c2bfce3c11cafb5d590f87f2f7ff2b36fce9fab7d9ce",
+      "timeline_items": 21,
+      "accepted": 4,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 16
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__wQLAAIAAAATMjExMTU5MzIxNjc4NDkxNjg1OQgAAwAAAAIAAA",
+      "sha256": "584a72e0b77cb5484aa966c61284c79ff2d9d8d1fd74c3fc31b9ecf4aa8e3b7d",
+      "timeline_items": 20,
+      "accepted": 6,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 13
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__vALAAIAAAATMjExMTI0NjgyNTk5NDc2MDI0NwgAAwAAAAIAAA",
+      "sha256": "7f93d289b454a64fc5334a70c337532a81521b92bdd696146533941e0c809c32",
+      "timeline_items": 21,
+      "accepted": 6,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 14
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__tsLAAIAAAATMjExMTE0ODc1ODE4MDQ3OTE0MQgAAwAAAAIAAA",
+      "sha256": "994c22eeed0d3a8cd4b6d3326ab104fb4b26e3d37ec321fbc2867f3705593009",
+      "timeline_items": 21,
+      "accepted": 13,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 7
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__sYLAAIAAAATMjExMTA1MjM4MTUxMzE5OTY4NQgAAwAAAAIAAA",
+      "sha256": "1bba6782310757cb4121d8f6fde11dac6058a4860d49d347c016915c9cabc90a",
+      "timeline_items": 21,
+      "accepted": 8,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 12
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__rELAAIAAAATMjExMDc3OTAyMDA0ODg0MzE0NQgAAwAAAAIAAA",
+      "sha256": "066008a8d14783993318b08f3dc50f99d61d1d769ff7b98774ae263204b009b9",
+      "timeline_items": 21,
+      "accepted": 13,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 7
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__pwLAAIAAAATMjExMDI1OTI1MTU5NTg3NDM3MwgAAwAAAAIAAA",
+      "sha256": "fa8c1a37be185190cbb760af6d9498f521c8a95d199783a70a3b38a2644884c0",
+      "timeline_items": 21,
+      "accepted": 5,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 15
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__ocLAAIAAAATMjEwOTc3NTUwOTQ1MDExMzE2MQgAAwAAAAIAAA",
+      "sha256": "f0bee9e59ee7113c658a30857eb4e2423f007f40b1d00394151cf833e576ca8c",
+      "timeline_items": 20,
+      "accepted": 5,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 14
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/tedcruz/with_replies?cursor=DAAHCgABHVwYhL2__nMLAAIAAAATMjEwOTY3NjQ2NzI2OTM5MDYwNQgAAwAAAAIAAA",
+      "sha256": "3b1bc4a168527b251dc79a59f11e2039c65953fc8d2758c7a189c1f6a167fb22",
+      "timeline_items": 20,
+      "accepted": 4,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 15
+      }
+    }
+  ],
+  "excluded": {
+    "repost": 250,
+    "missing-author-or-permalink": 19
+  },
+  "repost_policy": "Exclude every native repost; require matching top-level permalink, username and timeline-item author. Quotes require authored content; replies are eligible. Ambiguous records excluded.",
+  "translation_policy": "No translations collected or created. Official X embed displays original content.",
+  "post_body_policy": "Only factual metadata and original permalinks are redistributed; original content is loaded through the official X embed on demand.",
+  "subject": "Ted Cruz",
+  "account": "tedcruz",
+  "platform_counts": {
+    "x": 147
+  },
+  "days": 19,
+  "months": 2,
+  "content_mode": "official_embeds"
+}
